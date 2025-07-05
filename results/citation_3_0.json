@@ -1,0 +1,2593 @@
+{
+  "search_metadata": {
+    "id": "6864e33be171b9b04bbdab2e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d5566e84af13ac72/6864e33be171b9b04bbdab2e.json",
+    "created_at": "2025-07-02 07:43:55 UTC",
+    "processed_at": "2025-07-02 07:43:55 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/JPH04206167A/en",
+    "raw_html_file": "https://serpapi.com/searches/d5566e84af13ac72/6864e33be171b9b04bbdab2e.html",
+    "total_time_taken": 2.0
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/JPH04206167A/en"
+  },
+  "title": "Nonaqueous electrolyte secondary battery",
+  "type": "patent",
+  "publication_number": "JPH04206167A",
+  "country": "Japan",
+  "prior_art_keywords": [
+    "lithium",
+    "secondary battery",
+    "negative electrode",
+    "electrolyte",
+    "nonaqueous"
+  ],
+  "prior_art_date": "1990-11-28",
+  "application_number": "JP2328166A",
+  "inventors": [
+    {
+      "name": "Norihito Kurisu",
+      "link": "https://patents.google.com/?inventor=Norihito+Kurisu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Norihito+Kurisu"
+    },
+    {
+      "name": "\u6817\u6816\u3000\u61b2\u4ec1",
+      "link": "https://patents.google.com/?inventor=%E6%A0%97%E6%A0%96%E3%80%80%E6%86%B2%E4%BB%81",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%A0%97%E6%A0%96%E3%80%80%E6%86%B2%E4%BB%81"
+    },
+    {
+      "name": "Kuniaki Inada",
+      "link": "https://patents.google.com/?inventor=Kuniaki+Inada",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kuniaki+Inada"
+    },
+    {
+      "name": "\u7a32\u7530\u3000\u5700\u662d",
+      "link": "https://patents.google.com/?inventor=%E7%A8%B2%E7%94%B0%E3%80%80%E5%9C%80%E6%98%AD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%A8%B2%E7%94%B0%E3%80%80%E5%9C%80%E6%98%AD"
+    },
+    {
+      "name": "Takahisa Osaki",
+      "link": "https://patents.google.com/?inventor=Takahisa+Osaki",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Takahisa+Osaki"
+    },
+    {
+      "name": "\u9686\u4e45 \u5927\u5d0e",
+      "link": "https://patents.google.com/?inventor=%E9%9A%86%E4%B9%85+%E5%A4%A7%E5%B4%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%9A%86%E4%B9%85+%E5%A4%A7%E5%B4%8E"
+    },
+    {
+      "name": "Norio Takami",
+      "link": "https://patents.google.com/?inventor=Norio+Takami",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Norio+Takami"
+    },
+    {
+      "name": "\u5247\u96c4 \u9ad8\u898b",
+      "link": "https://patents.google.com/?inventor=%E5%89%87%E9%9B%84+%E9%AB%98%E8%A6%8B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%89%87%E9%9B%84+%E9%AB%98%E8%A6%8B"
+    }
+  ],
+  "assignees": [
+    "Toshiba Corp",
+    "FDK Twicell Co Ltd"
+  ],
+  "priority_date": "1990-11-28",
+  "filing_date": "1990-11-28",
+  "publication_date": "1992-07-28",
+  "worldwide_applications": {
+    "1990": [
+      {
+        "filing_date": "1990-11-28",
+        "country_code": "JP",
+        "application_number": "JP32816690A",
+        "document_id": "patent/JP3154719B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1990-11-28",
+      "title": "Application filed by Toshiba Battery Co Ltd, Toshiba Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Toshiba Battery Co Ltd"
+    },
+    {
+      "date": "1990-11-28",
+      "title": "Priority to JP32816690A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP3154719B2/en"
+    },
+    {
+      "date": "1992-07-28",
+      "title": "Publication of JPH04206167A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JPH04206167A/en"
+    },
+    {
+      "date": "2001-04-09",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2001-04-09",
+      "title": "Publication of JP3154719B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP3154719B2/en"
+    },
+    {
+      "date": "2016-04-09",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=JP&NR=H04206167A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/JP/32816690/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/JPH04206167A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "PURPOSE:To obtain a secondary battery having an excellent charge/discharge cycle life and a high capacity by using a material obtained by mixing a prescribed mix volume of acetonitrile with one kind among ethylene carbonate, propylene carbonate or butylene carbonate as nonaqueous solvent. CONSTITUTION:A carbonaceous material of a negative electrode 3 in a nonaqueous electrolyte secondary battery is made to bear Li thereon, and a chalcogen compound such as Mn oxide is contained in a positive electrode 1 as an active material, and hexafluoride lithium phosphate is used as nonaqueous electrolyte after about 0.5-1.5 mole/l of it is dissolved into nonaqueous solution as electrolyte. The nonaqeous solution is formed by mixing acetonitrile of about 10-60volume% with one kind among ethylene carbonate, propylene carbonate and butylene carbonate. At this time, diameter of an Li ion solvation complex in the nonaqueous electrolyte can be reduced. Thereby, the complex can infiltrate easily between layers of a carbonic material of the negative electrode 3 so that storage/emission volume of Li ion can be increased at the negative electrode. Moreover, since there is no reactivity between the nonaqueous solution and the carbonic material, a structure of the carbonic material can be kept in an excellent condition so that the secondary battery having high capacity can be made.",
+  "description_link": "https://serpapi.com/searches/6864e33be171b9b04bbdab2e/google_patents_details/description.html",
+  "claims": [
+    "\u3000\u70ad\u7d20\u8cea\u7269\u306b\u30ea\u30c1\u30a6\u30e0\u3092\u62c5\u6301\u3055\u305b\u305f\u8ca0\u6975\u3068\u3001\u30ab\u30eb\u30b3\u30b2\u30f3\u5316\u5408\u7269\u3092\u6d3b\u7269\u8cea\u3068\u3059\u308b\u6b63\u6975\u3068\u3001\u516d\u30d5\u30c3\u5316\u30ea\u30f3\u9178\u30ea\u30c1\u30a6\u30e0\uff08\uff2c\uff49\uff30\uff26\uff3f\uff16\uff09\u3092\u96fb\u89e3\u8cea\u3068\u3057\u3066\u975e\u6c34\u6eb6\u5a92\u306b\u6eb6\u89e3\u3057\u305f\u975e\u6c34\u96fb\u89e3\u6db2\u3068\u3092\u5177\u5099\u3059\u308b\u975e\u6c34\u96fb\u89e3\u6db2\u4e8c\u6b21\u96fb\u6c60\u306b\u304a\u3044\u3066\u3001\u524d\u8a18\u975e\u6c34\u6eb6\u5a92\u304c\u3001\u30a8\u30c1\u30ec\u30f3\u30ab\u30fc\u30dc\u30cd\u30fc\u30c8\u3068\u3001\u30d7\u30ed\u30d4\u30ec\u30f3\u30ab\u30fc\u30dc\u30cd\u30fc\u30c8\u53ca\u3073\u30d6\u30c1\u30ec\u30f3\u30ab\u30fc\u30dc\u30cd\u30fc\u30c8\u306e\u5c11\u306a\u304f\u3068\u3082\uff11\u7a2e\u3068\u3001\u30a2\u30bb\u30c8\u30cb\u30c8\u30ea\u30eb\u3068\u306e\u6df7\u5408\u7269\u304b\u3089\u306a\u308a\u3001\u304b\u3064\u524d\u8a18\u30a2\u30bb\u30c8\u30cb\u30c8\u30ea\u30eb\u306e\u914d\u5408\u91cf\u3092\uff11\uff10\u301c\uff16\uff10\u4f53\u7a4d\uff05\u3068\u3057\u305f\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u975e\u6c34\u96fb\u89e3\u6db2\u4e8c\u6b21\u96fb\u6c60\u3002A nonaqueous electrolyte comprising a negative electrode in which lithium is supported on a carbonaceous material, a positive electrode in which a chalcogen compound is used as an active material, and a nonaqueous electrolyte in which lithium hexafluorophosphate (LiPF_6) is dissolved in a nonaqueous solvent as an electrolyte. In the liquid secondary battery, the non-aqueous solvent is made of a mixture of ethylene carbonate, at least one of propylene carbonate and butylene carbonate, and acetonitrile, and the amount of acetonitrile is 10 to 60% by volume. Characteristic non-aqueous electrolyte secondary battery."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP32816690A",
+      "representative_publication": "JP3154719B2",
+      "primary_language": "en",
+      "priority_date": "1990-11-28",
+      "filing_date": "1990-11-28",
+      "title": "Non-aqueous electrolyte secondary battery"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP32816690A",
+      "representative_publication": "JP3154719B2",
+      "primary_language": "en",
+      "priority_date": "1990-11-28",
+      "filing_date": "1990-11-28",
+      "title": "Non-aqueous electrolyte secondary battery"
+    }
+  ],
+  "family_id": "18207225",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "JPH04267075A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-02-21",
+        "publication_date": "1992-09-22",
+        "assignee_original": "Yuasa Corp",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JPH04267075A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH04267075A%2Fen"
+      },
+      {
+        "publication_number": "JP2000058009A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-08-11",
+        "publication_date": "2000-02-25",
+        "assignee_original": "Toshiba Battery Co Ltd",
+        "title": "Flat-shaped nonaqueous electrolyte battery",
+        "patent_id": "patent/JP2000058009A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000058009A%2Fen"
+      },
+      {
+        "publication_number": "CN1311585C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-20",
+        "publication_date": "2007-04-18",
+        "assignee_original": "\u4e09\u661fSdi\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery comprising same",
+        "patent_id": "patent/CN1311585C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1311585C%2Fen"
+      },
+      {
+        "publication_number": "JP2007305549A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-12",
+        "publication_date": "2007-11-22",
+        "assignee_original": "Matsushita Electric Ind Co Ltd",
+        "title": "Cathode active substance, its manufacturing method and nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2007305549A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007305549A%2Fen"
+      },
+      {
+        "publication_number": "WO2009047976A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-12",
+        "publication_date": "2009-04-16",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Method for manufacturing secondary battery",
+        "patent_id": "patent/WO2009047976A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009047976A1%2Fen"
+      },
+      {
+        "publication_number": "US7846588B2",
+        "primary_language": "en",
+        "priority_date": "2004-06-30",
+        "publication_date": "2010-12-07",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrolyte for lithium secondary battery and lithium secondary battery comprising same",
+        "patent_id": "patent/US7846588B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7846588B2%2Fen"
+      },
+      {
+        "publication_number": "US20120081837A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-04",
+        "publication_date": "2012-04-05",
+        "assignee_original": "Kishor Purushottam Gadkaree",
+        "title": "Electrolyte System",
+        "patent_id": "patent/US20120081837A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120081837A1%2Fen"
+      },
+      {
+        "publication_number": "JP2012109048A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-15",
+        "publication_date": "2012-06-07",
+        "assignee_original": "Toyota Motor Corp",
+        "title": "Regeneration method of nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2012109048A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012109048A%2Fen"
+      },
+      {
+        "publication_number": "JP2018060692A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-05",
+        "publication_date": "2018-04-12",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous secondary battery",
+        "patent_id": "patent/JP2018060692A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018060692A%2Fen"
+      },
+      {
+        "publication_number": "JP2018060693A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-05",
+        "publication_date": "2018-04-12",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous secondary battery",
+        "patent_id": "patent/JP2018060693A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018060693A%2Fen"
+      },
+      {
+        "publication_number": "CN110383564A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2019-10-25",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte, non-aqueous secondary battery, battery pack and hybrid power system",
+        "patent_id": "patent/CN110383564A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110383564A%2Fen"
+      },
+      {
+        "publication_number": "US11532839B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-17",
+        "publication_date": "2022-12-20",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Non-aqueous secondary battery",
+        "patent_id": "patent/US11532839B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11532839B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP6258584B2",
+        "primary_language": "en",
+        "priority_date": "2010-10-29",
+        "publication_date": "2018-01-10",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and non-aqueous secondary battery",
+        "patent_id": "patent/JP6258584B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6258584B2%2Fen"
+      },
+      {
+        "publication_number": "CN103891028B",
+        "primary_language": "en",
+        "priority_date": "2011-10-28",
+        "publication_date": "2016-04-13",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous secondary battery",
+        "patent_id": "patent/CN103891028B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103891028B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US4945014A",
+      "primary_language": "en",
+      "publication_date": "1990-07-31",
+      "title": "Secondary battery",
+      "patent_id": "patent/US4945014A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4945014A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001022519A1",
+      "primary_language": "en",
+      "publication_date": "2001-03-29",
+      "title": "Secondary cell",
+      "patent_id": "patent/WO2001022519A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001022519A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3154719B2",
+      "primary_language": "en",
+      "publication_date": "2001-04-09",
+      "title": "Non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/JP3154719B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3154719B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH05286763A",
+      "primary_language": "en",
+      "publication_date": "1993-11-02",
+      "title": "Electrode material",
+      "patent_id": "patent/JPH05286763A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH05286763A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3291756B2",
+      "primary_language": "en",
+      "publication_date": "2002-06-10",
+      "title": "Non-aqueous solvent secondary battery and its electrode material",
+      "patent_id": "patent/JP3291756B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3291756B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3164458B2",
+      "primary_language": "en",
+      "publication_date": "2001-05-08",
+      "title": "Manufacturing method of electrode material",
+      "patent_id": "patent/JP3164458B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3164458B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0544143B2",
+      "primary_language": "en",
+      "publication_date": "1993-07-05",
+      "patent_id": "patent/JPH0544143B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0544143B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4784718B2",
+      "primary_language": "en",
+      "publication_date": "2011-10-05",
+      "title": "Electrolyte and battery",
+      "patent_id": "patent/JP4784718B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4784718B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPS63193463A",
+      "primary_language": "en",
+      "publication_date": "1988-08-10",
+      "title": "Nonaqueous solvent secondary battery",
+      "patent_id": "patent/JPS63193463A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS63193463A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0580791B2",
+      "primary_language": "en",
+      "publication_date": "1993-11-10",
+      "patent_id": "patent/JPH0580791B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0580791B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3424419B2",
+      "primary_language": "en",
+      "publication_date": "2003-07-07",
+      "title": "Method for producing negative electrode carbon material for non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/JP3424419B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3424419B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPS63114056A",
+      "primary_language": "en",
+      "publication_date": "1988-05-18",
+      "title": "Nonaqueous solvent secondary battery",
+      "patent_id": "patent/JPS63114056A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS63114056A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH04296471A",
+      "primary_language": "en",
+      "publication_date": "1992-10-20",
+      "title": "Non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/JPH04296471A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH04296471A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3291758B2",
+      "primary_language": "en",
+      "publication_date": "2002-06-10",
+      "title": "Non-aqueous solvent secondary battery and its electrode material",
+      "patent_id": "patent/JP3291758B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3291758B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3472126B2",
+      "primary_language": "en",
+      "publication_date": "2003-12-02",
+      "title": "Non-aqueous electrolyte secondary battery and method of manufacturing non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/JP3472126B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3472126B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003045487A",
+      "primary_language": "en",
+      "publication_date": "2003-02-14",
+      "title": "Battery",
+      "patent_id": "patent/JP2003045487A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003045487A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH05290888A",
+      "primary_language": "en",
+      "publication_date": "1993-11-05",
+      "title": "Non-aqueous solvent secondary battery",
+      "patent_id": "patent/JPH05290888A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH05290888A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3870309B2",
+      "primary_language": "en",
+      "publication_date": "2007-01-17",
+      "title": "Carbon material for electrode, method for producing the same, and negative electrode for non-aqueous electrolyte secondary battery using the same",
+      "patent_id": "patent/JP3870309B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3870309B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3519462B2",
+      "primary_language": "en",
+      "publication_date": "2004-04-12",
+      "title": "Lithium secondary battery",
+      "patent_id": "patent/JP3519462B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3519462B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH09245798A",
+      "primary_language": "en",
+      "publication_date": "1997-09-19",
+      "title": "Lithium secondary battery",
+      "patent_id": "patent/JPH09245798A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH09245798A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3159725B2",
+      "primary_language": "en",
+      "publication_date": "2001-04-23",
+      "title": "Electrodes for secondary batteries",
+      "patent_id": "patent/JP3159725B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3159725B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2957202B2",
+      "primary_language": "en",
+      "publication_date": "1999-10-04",
+      "title": "Rechargeable battery",
+      "patent_id": "patent/JP2957202B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2957202B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002280082A",
+      "primary_language": "en",
+      "publication_date": "2002-09-27",
+      "title": "Charging method for secondary battery",
+      "patent_id": "patent/JP2002280082A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002280082A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH02215043A",
+      "primary_language": "en",
+      "publication_date": "1990-08-28",
+      "title": "Nonaqueous solvent secondary battery",
+      "patent_id": "patent/JPH02215043A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH02215043A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH04237949A",
+      "primary_language": "en",
+      "publication_date": "1992-08-26",
+      "title": "Electrode material",
+      "patent_id": "patent/JPH04237949A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH04237949A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2005-02-02",
+      "code": "LAPS",
+      "title": "Cancellation because of no payment of annual fees"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000011255",
+        "name": "nonaqueous electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "WEVYAHXRMPXWCK-UHFFFAOYSA-N",
+        "name": "Acetonitrile",
+        "domain": "Chemical compound",
+        "smiles": "CC#N",
+        "inchi_key": "WEVYAHXRMPXWCK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "239000003575",
+        "name": "carbonaceous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "name": "Ethylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "O=C1OCCO1",
+        "inchi_key": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "name": "propylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CC1COC(=O)O1",
+        "inchi_key": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "ZZXUZKXVROWEIF-UHFFFAOYSA-N",
+        "name": "1,2-butylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCC1COC(=O)O1",
+        "inchi_key": "ZZXUZKXVROWEIF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000011149",
+        "name": "active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "150000001786",
+        "name": "chalcogen compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "239000003125",
+        "name": "aqueous solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "-1",
+        "name": "lithium hexafluorophosphate",
+        "domain": "Chemical compound",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000009257",
+        "name": "reactivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "USHGRFXQYJEHII-UHFFFAOYSA-M",
+        "name": "[O-]P(O)(O)=O.[Li+].F.F.F.F.F.F",
+        "domain": "Chemical compound",
+        "smiles": "[O-]P(O)(O)=O.[Li+].F.F.F.F.F.F",
+        "inchi_key": "USHGRFXQYJEHII-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007614",
+        "name": "solvation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000008151",
+        "name": "electrolyte solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003463",
+        "name": "adsorbent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "UFWIBTONFRDIAS-UHFFFAOYSA-N",
+        "name": "Naphthalene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=CC2=CC=CC=C21",
+        "inchi_key": "UFWIBTONFRDIAS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+        "name": "Tetrahydrofuran",
+        "domain": "Chemical compound",
+        "smiles": "C1CCOC1",
+        "inchi_key": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000006866",
+        "name": "deterioration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000014759",
+        "name": "maintenance of location",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "NUJOXMJBOLGQSY-UHFFFAOYSA-N",
+        "name": "manganese dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Mn]=O",
+        "inchi_key": "NUJOXMJBOLGQSY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "YEJRWHAVMIAJKC-UHFFFAOYSA-N",
+        "name": "4-Butyrolactone",
+        "domain": "Chemical compound",
+        "smiles": "O=C1CCCO1",
+        "inchi_key": "YEJRWHAVMIAJKC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XTHFKEDIFFGKHM-UHFFFAOYSA-N",
+        "name": "Dimethoxyethane",
+        "domain": "Chemical compound",
+        "smiles": "COCCOC",
+        "inchi_key": "XTHFKEDIFFGKHM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011230",
+        "name": "binding agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000002391",
+        "name": "heterocyclic compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000012046",
+        "name": "mixed solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000002894",
+        "name": "organic compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XSCHRSMBECNVNS-UHFFFAOYSA-N",
+        "name": "quinoxaline",
+        "domain": "Chemical compound",
+        "smiles": "N1=CC=NC2=CC=CC=C21",
+        "inchi_key": "XSCHRSMBECNVNS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "125000000383",
+        "name": "tetramethylene group",
+        "domain": "Chemical group",
+        "smiles": "[H]C([H])([*:1])C([H])([H])C([H])([H])C([H])([H])[*:2]",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "UJOBWOGCFQCDNV-UHFFFAOYSA-N",
+        "name": "9H-carbazole",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2C3=CC=CC=C3NC2=C1",
+        "inchi_key": "UJOBWOGCFQCDNV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "SIKJAQJRHWYJAI-UHFFFAOYSA-N",
+        "name": "Indole",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2NC=CC2=C1",
+        "inchi_key": "SIKJAQJRHWYJAI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "SMWDFEZZVXVKRB-UHFFFAOYSA-N",
+        "name": "Quinoline",
+        "domain": "Chemical compound",
+        "smiles": "N1=CC=CC2=CC=CC=C21",
+        "inchi_key": "SMWDFEZZVXVKRB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "name": "Titan oxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Ti]=O",
+        "inchi_key": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "DZBUGLKDJFMEHC-UHFFFAOYSA-N",
+        "name": "acridine",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=CC2=CC3=CC=CC=C3N=C21",
+        "inchi_key": "DZBUGLKDJFMEHC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+        "name": "anthracene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=CC2=CC3=CC=CC=C3C=C21",
+        "inchi_key": "MWPLVEDNUUSJAV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000001735",
+        "name": "carboxylic acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WDECIBYCCFPHNR-UHFFFAOYSA-N",
+        "name": "chrysene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=CC2=CC=C3C4=CC=CC=C4C=CC3=C21",
+        "inchi_key": "WDECIBYCCFPHNR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GNTDGMZSJNCJKK-UHFFFAOYSA-N",
+        "name": "divanadium pentaoxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[V](=O)O[V](=O)=O",
+        "inchi_key": "GNTDGMZSJNCJKK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009830",
+        "name": "intercalation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "AWJUIBRHMBBTKR-UHFFFAOYSA-N",
+        "name": "isoquinoline",
+        "domain": "Chemical compound",
+        "smiles": "C1=NC=CC2=CC=CC=C21",
+        "inchi_key": "AWJUIBRHMBBTKR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052982",
+        "name": "molybdenum disulfide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003647",
+        "name": "oxidation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007254",
+        "name": "oxidation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YNPNZTXNASCQKK-UHFFFAOYSA-N",
+        "name": "phenanthrene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2C3=CC=CC=C3C=CC2=C1",
+        "inchi_key": "YNPNZTXNASCQKK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005011",
+        "name": "phenolic resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GBROPGWFBFCKAG-UHFFFAOYSA-N",
+        "name": "picene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC2=C3C=CC=CC3=CC=C2C2=C1C1=CC=CC=C1C=C2",
+        "inchi_key": "GBROPGWFBFCKAG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007774",
+        "name": "positive electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BBEAQIROQSPTKN-UHFFFAOYSA-N",
+        "name": "pyrene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2C=CC3=CC=CC4=CC=C1C2=C43",
+        "inchi_key": "BBEAQIROQSPTKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011347",
+        "name": "resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920005989",
+        "name": "resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+        "name": "tetrahydrofuran",
+        "domain": "Natural products",
+        "smiles": "C=1C=COC=1",
+        "inchi_key": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VEPOHXYIFQMVHW-XOZOLZJESA-N",
+        "name": "2,3-dihydroxybutanedioic acid (2S,3S)-3,4-dimethyl-2-phenylmorpholine",
+        "domain": "Chemical compound",
+        "smiles": "OC(C(O)C(O)=O)C(O)=O.C[C@H]1[C@@H](OCCN1C)c1ccccc1",
+        "inchi_key": "VEPOHXYIFQMVHW-XOZOLZJESA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JWUJQDFVADABEY-UHFFFAOYSA-N",
+        "name": "2-methyltetrahydrofuran",
+        "domain": "Chemical compound",
+        "smiles": "CC1CCCO1",
+        "inchi_key": "JWUJQDFVADABEY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VHMICKWLTGFITH-UHFFFAOYSA-N",
+        "name": "2H-isoindole",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=CC2=CNC=C21",
+        "inchi_key": "VHMICKWLTGFITH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004925",
+        "name": "Acrylic resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000178",
+        "name": "Acrylic resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "name": "Atomic nitrogen",
+        "domain": "Chemical compound",
+        "smiles": "N#N",
+        "inchi_key": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+        "name": "Butadiene",
+        "domain": "Chemical group",
+        "smiles": "C=CC=C",
+        "inchi_key": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102100030393",
+        "name": "G-patch domain and KOW motifs-containing protein",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910013872",
+        "name": "LiPF",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101150058243",
+        "name": "Lipf gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "AFCARXCZXQIEQB-UHFFFAOYSA-N",
+        "name": "N-[3-oxo-3-(2,4,6,7-tetrahydrotriazolo[4,5-c]pyridin-5-yl)propyl]-2-[[3-(trifluoromethoxy)phenyl]methylamino]pyrimidine-5-carboxamide",
+        "domain": "Chemical compound",
+        "smiles": "O=C(CCNC(=O)C=1C=NC(=NC=1)NCC1=CC(=CC=C1)OC(F)(F)F)N1CC2=C(CC1)NN=N2",
+        "inchi_key": "AFCARXCZXQIEQB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PCNDJXKNXGMECE-UHFFFAOYSA-N",
+        "name": "Phenazine",
+        "domain": "Natural products",
+        "smiles": "C1=CC=CC2=NC3=CC=CC=C3N=C21",
+        "inchi_key": "PCNDJXKNXGMECE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004698",
+        "name": "Polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000265",
+        "name": "Polyparaphenylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004743",
+        "name": "Polypropylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001328",
+        "name": "Polyvinylidene chloride",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SLGBZMMZGDRARJ-UHFFFAOYSA-N",
+        "name": "Triphenylene",
+        "domain": "Natural products",
+        "smiles": "C1=CC=C2C3=CC=CC=C3C3=CC=CC=C3C2=C1",
+        "inchi_key": "SLGBZMMZGDRARJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+        "name": "Vinyl chloride",
+        "domain": "Chemical class",
+        "smiles": "ClC=C",
+        "inchi_key": "BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002441",
+        "name": "X-ray diffraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PFYQFCKUASLJLL-UHFFFAOYSA-N",
+        "name": "[Co].[Ni].[Li]",
+        "domain": "Chemical compound",
+        "smiles": "[Co].[Ni].[Li]",
+        "inchi_key": "PFYQFCKUASLJLL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KLARSDUHONHPRF-UHFFFAOYSA-N",
+        "name": "[Li].[Mn]",
+        "domain": "Chemical compound",
+        "smiles": "[Li].[Mn]",
+        "inchi_key": "KLARSDUHONHPRF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GTDPSWPPOUPBNX-UHFFFAOYSA-N",
+        "name": "ac1mqpva",
+        "domain": "Chemical compound",
+        "smiles": "CC12C(=O)OC(=O)C1(C)C1(C)C2(C)C(=O)OC1=O",
+        "inchi_key": "GTDPSWPPOUPBNX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006230",
+        "name": "acetylene black",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000008360",
+        "name": "acrylonitriles",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052783",
+        "name": "alkali metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001340",
+        "name": "alkali metals",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "aluminium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000008064",
+        "name": "anhydrides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003763",
+        "name": "carbonization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010000",
+        "name": "carbonizing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001244",
+        "name": "carboxylic acid anhydrides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CKFRRHLHAJZIIN-UHFFFAOYSA-N",
+        "name": "cobalt lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li].[Co]",
+        "inchi_key": "CKFRRHLHAJZIIN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000571",
+        "name": "coke",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004020",
+        "name": "conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009831",
+        "name": "deintercalation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001787",
+        "name": "dendrite",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008021",
+        "name": "deposition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003795",
+        "name": "desorption",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RAABOESOVLLHRU-UHFFFAOYSA-N",
+        "name": "diazene",
+        "domain": "Chemical compound",
+        "smiles": "N=N",
+        "inchi_key": "RAABOESOVLLHRU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000071",
+        "name": "diazene",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001873",
+        "name": "dinitrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010494",
+        "name": "dissociation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005593",
+        "name": "dissociations",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004090",
+        "name": "dissolution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002848",
+        "name": "electrochemical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005868",
+        "name": "electrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003822",
+        "name": "epoxy resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001914",
+        "name": "filtration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010304",
+        "name": "firing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+        "name": "fluoranthrene",
+        "domain": "Natural products",
+        "smiles": "C1=CC(C2=CC=CC=C22)=C3C2=CC=CC3=C1",
+        "inchi_key": "GVEPBJHOBDJJJI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LNEPOXFFQSENCJ-UHFFFAOYSA-N",
+        "name": "haloperidol",
+        "domain": "Chemical compound",
+        "smiles": "C1CC(O)(C=2C=CC(Cl)=CC=2)CCN1CCCC(=O)C1=CC=C(F)C=C1",
+        "inchi_key": "LNEPOXFFQSENCJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002483",
+        "name": "hydrogen compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012535",
+        "name": "impurity",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PZOUSPYUWWUPPK-UHFFFAOYSA-N",
+        "name": "indole",
+        "domain": "Natural products",
+        "smiles": "CC1=CC=CC2=C1C=CN2",
+        "inchi_key": "PZOUSPYUWWUPPK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RKJUIXBNRJVNHR-UHFFFAOYSA-N",
+        "name": "indolenine",
+        "domain": "Natural products",
+        "smiles": "C1=CC=C2CC=NC2=C1",
+        "inchi_key": "RKJUIXBNRJVNHR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002687",
+        "name": "intercalation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011229",
+        "name": "interlayer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XGZVUEUWXADBQD-UHFFFAOYSA-L",
+        "name": "lithium carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Li+].[O-]C([O-])=O",
+        "inchi_key": "XGZVUEUWXADBQD-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052808",
+        "name": "lithium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910003002",
+        "name": "lithium salt",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "159000000002",
+        "name": "lithium salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011572",
+        "name": "manganese",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "AMWRITDGCCNYAT-UHFFFAOYSA-L",
+        "name": "manganese oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[Mn].O[Mn]=O.O[Mn]=O",
+        "inchi_key": "AMWRITDGCCNYAT-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PPNAOCWZXJOHFK-UHFFFAOYSA-N",
+        "name": "manganese(2+);oxygen(2-)",
+        "domain": "Chemical class",
+        "smiles": "[O-2].[Mn+2]",
+        "inchi_key": "PPNAOCWZXJOHFK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002808",
+        "name": "molecular sieve",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MHWZQNGIEIYAQJ-UHFFFAOYSA-N",
+        "name": "molybdenum diselenide",
+        "domain": "Chemical compound",
+        "smiles": "[Se]=[Mo]=[Se]",
+        "inchi_key": "MHWZQNGIEIYAQJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CWQXQMHSOZUFJS-UHFFFAOYSA-N",
+        "name": "molybdenum disulfide",
+        "domain": "Chemical compound",
+        "smiles": "S=[Mo]=S",
+        "inchi_key": "CWQXQMHSOZUFJS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002950",
+        "name": "monocyclic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004570",
+        "name": "mortar (masonry)",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000465",
+        "name": "moulding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007773",
+        "name": "negative electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004745",
+        "name": "nonwoven fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001590",
+        "name": "oxidative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008188",
+        "name": "pellet",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SLIUAWYAILUBJU-UHFFFAOYSA-N",
+        "name": "pentacene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=CC2=CC3=CC4=CC5=CC=CC=C5C=C4C=C3C=C21",
+        "inchi_key": "SLIUAWYAILUBJU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JQQSUOJIMKJQHS-UHFFFAOYSA-N",
+        "name": "pentaphene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2C=C3C4=CC5=CC=CC=C5C=C4C=CC3=CC2=C1",
+        "inchi_key": "JQQSUOJIMKJQHS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002080",
+        "name": "perylenyl group",
+        "domain": "Chemical group",
+        "smiles": "C1(=CC=C2C=CC=C3C4=CC=CC5=CC=CC(C1=C23)=C45)*",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CSHWQDPOILHKBI-UHFFFAOYSA-N",
+        "name": "peryrene",
+        "domain": "Natural products",
+        "smiles": "C1=CC(C2=CC=CC=3C2=C2C=CC=3)=C3C2=CC=CC3=C1",
+        "inchi_key": "CSHWQDPOILHKBI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LFSXCDWNBUNEEM-UHFFFAOYSA-N",
+        "name": "phthalazine",
+        "domain": "Chemical compound",
+        "smiles": "C1=NN=CC2=CC=CC=C21",
+        "inchi_key": "LFSXCDWNBUNEEM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002239",
+        "name": "polyacrylonitrile",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920006122",
+        "name": "polyamide resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000647",
+        "name": "polyepoxide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000573",
+        "name": "polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001155",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001343",
+        "name": "polytetrafluoroethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004810",
+        "name": "polytetrafluoroethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005033",
+        "name": "polyvinylidene chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001556",
+        "name": "precipitation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+        "name": "propylene",
+        "domain": "Natural products",
+        "smiles": "CC=C",
+        "inchi_key": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000004805",
+        "name": "propylene group",
+        "domain": "Chemical group",
+        "smiles": "[H]C([H])([H])C([H])([*:1])C([H])([H])[*:2]",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002994",
+        "name": "raw material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000027756",
+        "name": "respiratory electron transport chain",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000926",
+        "name": "separation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "URGAHOPLAPQHLN-UHFFFAOYSA-N",
+        "name": "sodium aluminosilicate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Al+3].[O-][Si]([O-])=O.[O-][Si]([O-])=O",
+        "inchi_key": "URGAHOPLAPQHLN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001220",
+        "name": "stainless steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010935",
+        "name": "stainless steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004408",
+        "name": "titanium dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001988",
+        "name": "toxicity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000419",
+        "name": "toxicity",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000005580",
+        "name": "triphenylene group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013585",
+        "name": "weight reducing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

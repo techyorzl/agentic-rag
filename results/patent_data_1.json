@@ -1,0 +1,1226 @@
+{
+  "search_metadata": {
+    "id": "6864e3286f1e407bd780267e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6ae16a4cf649cd99/6864e3286f1e407bd780267e.json",
+    "created_at": "2025-07-02 07:43:36 UTC",
+    "processed_at": "2025-07-02 07:43:36 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN111181207B/en",
+    "raw_html_file": "https://serpapi.com/searches/6ae16a4cf649cd99/6864e3286f1e407bd780267e.html",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN111181207B/en"
+  },
+  "title": "Distributed lithium battery pack energy storage system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/de/8d/70/732e8d5e735921/CN111181207B.pdf",
+  "publication_number": "CN111181207B",
+  "country": "China",
+  "prior_art_keywords": [
+    "energy storage",
+    "battery pack",
+    "bidirectional",
+    "converter",
+    "storage control"
+  ],
+  "prior_art_date": "2020-01-07",
+  "application_number": "CN202010014166.4A",
+  "inventors": [
+    {
+      "name": "\u7ae0\u6cbb\u56fd",
+      "link": "https://patents.google.com/?inventor=%E7%AB%A0%E6%B2%BB%E5%9B%BD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%AB%A0%E6%B2%BB%E5%9B%BD"
+    },
+    {
+      "name": "\u675c\u6d77\u5fe0",
+      "link": "https://patents.google.com/?inventor=%E6%9D%9C%E6%B5%B7%E5%BF%A0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%9C%E6%B5%B7%E5%BF%A0"
+    },
+    {
+      "name": "\u9a86\u6ed4",
+      "link": "https://patents.google.com/?inventor=%E9%AA%86%E6%BB%94",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%AA%86%E6%BB%94"
+    },
+    {
+      "name": "\u6613\u5609\u6b23",
+      "link": "https://patents.google.com/?inventor=%E6%98%93%E5%98%89%E6%AC%A3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%98%93%E5%98%89%E6%AC%A3"
+    },
+    {
+      "name": "\u674e\u5c71",
+      "link": "https://patents.google.com/?inventor=%E6%9D%8E%E5%B1%B1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%8E%E5%B1%B1"
+    }
+  ],
+  "assignees": [
+    "Chongqing Hongyi Electric Co ltd",
+    "Zhang Zhiguo"
+  ],
+  "priority_date": "2020-01-07",
+  "filing_date": "2020-01-07",
+  "publication_date": "2021-09-21",
+  "worldwide_applications": {
+    "2020": [
+      {
+        "filing_date": "2020-01-07",
+        "country_code": "CN",
+        "application_number": "CN202010014166.4A",
+        "document_id": "patent/CN111181207B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2020-01-07",
+      "title": "Application filed by Chongqing University of Technology",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Chongqing University of Technology"
+    },
+    {
+      "date": "2020-01-07",
+      "title": "Priority to CN202010014166.4A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN111181207B/en"
+    },
+    {
+      "date": "2020-05-19",
+      "title": "Publication of CN111181207A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN111181207A/en"
+    },
+    {
+      "date": "2021-09-21",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2021-09-21",
+      "title": "Publication of CN111181207B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN111181207B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2040-01-07",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=111181207B&KC=B&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/202010014166/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN111181207B"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/ad/cb/bb/f7c91e380f6880/HDA0002358241940000011.png",
+    "https://patentimages.storage.googleapis.com/6b/8f/63/ae2cc229ba4ac2/HDA0002358241940000021.png",
+    "https://patentimages.storage.googleapis.com/58/c3/db/a1a3549b521eb0/HDA0002358241940000022.png"
+  ],
+  "classifications": [
+    {
+      "code": "H02J7/0019",
+      "description": "Circuits for equalisation of charge between batteries using switched or multiplexed charge circuits",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/22",
+      "description": "Balancing the charge of battery modules",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02H7/18",
+      "description": "Emergency protective circuit arrangements specially adapted for specific types of electric machines or apparatus or for sectionalised protection of cable or line systems, and effecting automatic switching in the event of an undesired change from normal working conditions for batteries; for accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02J1/10",
+      "description": "Parallel operation of DC sources",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02J1/14",
+      "description": "Balancing the load in a network",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02J7/34",
+      "description": "Parallel operation in networks using both storage and other DC sources, e.g. providing buffering",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/70",
+      "description": "Energy storage systems for electromobility, e.g. batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/92",
+      "description": "Energy efficient charging or discharging systems for batteries, ultracapacitors, supercapacitors or double-layer capacitors specially adapted for vehicles",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention discloses a distributed lithium battery pack energy storage system, which includes a plurality of energy storage control units for connecting to a DC bus in parallel; data sharing is performed between the energy storage control units through bus communication; the energy storage control unit includes a single A battery pack composed of a bulk lithium battery, a bidirectional DC converter, a microcontroller and a state monitoring module; each microcontroller is equipped with an independent charging control program, and the independent charging control program is used according to the corresponding energy storage control unit. The state monitoring data and the DC bus voltage U A determine the charging mode of the corresponding energy storage control unit; each microcontroller is equipped with a cooperative discharge control program, which is used to determine the overall performance according to the shared data and the DC bus voltage U A discharge mode. The invention solves the technical problems of low reliability and low energy utilization rate of the lithium battery of the lithium battery pack energy storage system in the prior art, and can prolong the service life of the lithium battery and reduce the cost.",
+  "abstract_original": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5305\u62ec\u82e5\u5e72\u7528\u4e8e\u5e76\u8054\u5230\u76f4\u6d41\u6bcd\u7ebf\u4e0a\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\uff1b\u50a8\u80fd\u63a7\u5236\u5355\u5143\u4e4b\u95f4\u901a\u8fc7\u603b\u7ebf\u901a\u4fe1\u8fdb\u884c\u6570\u636e\u5171\u4eab\uff1b\u50a8\u80fd\u63a7\u5236\u5355\u5143\u5305\u62ec\u7531\u5355\u4f53\u9502\u7535\u6c60\u7ec4\u6210\u7684\u7535\u6c60\u7ec4\u3001\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u3001\u5fae\u63a7\u5236\u5668\u4e0e\u72b6\u6001\u76d1\u6d4b\u6a21\u5757\uff1b\u6bcf\u4e2a\u5fae\u63a7\u5236\u5668\u5185\u5747\u914d\u7f6e\u6709\u72ec\u7acb\u5145\u7535\u63a7\u5236\u7a0b\u5e8f\uff0c\u6240\u8ff0\u72ec\u7acb\u5145\u7535\u63a7\u5236\u7a0b\u5e8f\u7528\u4e8e\u6839\u636e\u5bf9\u5e94\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u4e0e\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u786e\u5b9a\u76f8\u5e94\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u5145\u7535\u6a21\u5f0f\uff1b\u6bcf\u4e2a\u5fae\u63a7\u5236\u5668\u5185\u5747\u914d\u7f6e\u6709\u534f\u540c\u653e\u7535\u63a7\u5236\u7a0b\u5e8f\uff0c\u534f\u540c\u653e\u7535\u63a7\u5236\u7a0b\u5e8f\u7528\u4e8e\u6839\u636e\u5171\u4eab\u6570\u636e\u4e0e\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u786e\u5b9a\u6574\u4f53\u653e\u7535\u6a21\u5f0f\u3002\u672c\u53d1\u660e\u89e3\u51b3\u4e86\u73b0\u6709\u6280\u672f\u4e2d\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\u7684\u9502\u7535\u6c60\u53ef\u9760\u6027\u4e0e\u80fd\u91cf\u5229\u7528\u7387\u4e0d\u9ad8\u7684\u6280\u672f\u95ee\u9898\uff0c\u80fd\u591f\u5ef6\u957f\u9502\u7535\u6c60\u4f7f\u7528\u5bff\u547d\uff0c\u964d\u4f4e\u6210\u672c\u3002",
+  "description_link": "https://serpapi.com/searches/6864e3286f1e407bd780267e/google_patents_details/description.html",
+  "claims": [
+    "1.\u4e00\u79cd\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u5305\u62ec\u82e5\u5e72\u7528\u4e8e\u5e76\u8054\u5230\u76f4\u6d41\u6bcd\u7ebf\u4e0a\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\uff1b\u50a8\u80fd\u63a7\u5236\u5355\u5143\u4e4b\u95f4\u901a\u8fc7\u603b\u7ebf\u901a\u4fe1\u8fdb\u884c\u6570\u636e\u5171\u4eab\uff1b1. A distributed lithium battery pack energy storage system, characterized in that: comprising several energy storage control units for being connected in parallel to the DC bus; data sharing is performed between the energy storage control units through bus communication;\n      \n      \n         \u50a8\u80fd\u63a7\u5236\u5355\u5143\u5305\u62ec\u7531\u5355\u4f53\u9502\u7535\u6c60\u7ec4\u6210\u7684\u7535\u6c60\u7ec4\u3001\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u3001\u5fae\u63a7\u5236\u5668\u4ee5\u53ca\u7528\u4e8e\u91c7\u96c6\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u7684\u72b6\u6001\u76d1\u6d4b\u6a21\u5757\uff1b\u7535\u6c60\u7ec4\u901a\u8fc7\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u4ece\u76f4\u6d41\u6bcd\u7ebf\u4e0a\u83b7\u53d6\u7535\u80fd\u6216\u8005\u8f93\u51fa\u7535\u80fd\u5230\u76f4\u6d41\u6bcd\u7ebf\u4e0a\uff1b\u5fae\u63a7\u5236\u5668\u901a\u8fc7\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u6765\u5207\u6362\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u5145/\u653e\u7535\u6a21\u5f0f\uff1bThe energy storage control unit includes a battery pack composed of a single lithium battery, a bidirectional DC converter, a microcontroller, and a state monitoring module for collecting the status monitoring data of the energy storage control unit; the battery pack is connected from the DC bus through the bidirectional DC converter. It can obtain electric energy or output electric energy to the DC bus; the microcontroller switches the charging/discharging mode of the energy storage control unit by controlling the bidirectional DC converter;\n      \n      \n         \u72b6\u6001\u76d1\u6d4b\u6a21\u5757\u5305\u62ec\u524d\u7aef\u72b6\u6001\u76d1\u6d4b\u6a21\u5757\u4e0e\u540e\u7aef\u72b6\u6001\u76d1\u6d4b\u6a21\u5757\uff1b\u524d\u7aef\u72b6\u6001\u76d1\u6d4b\u6a21\u5757\u63a5\u5165\u7535\u6c60\u7ec4\u4e0e\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u4e4b\u95f4\uff0c\u7528\u4e8e\u91c7\u96c6\u7535\u6c60\u7ec4\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\uff1b\u540e\u7aef\u72b6\u6001\u76d1\u6d4b\u6a21\u5757\u63a5\u5165\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u4e0e\u76f4\u6d41\u6bcd\u7ebf\u4e4b\u95f4\uff0c\u7528\u4e8e\u91c7\u96c6\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\uff1bThe status monitoring module includes a front-end status monitoring module and a back-end status monitoring module; the front-end status monitoring module is connected between the battery pack and the bidirectional DC converter to collect status monitoring data of the battery pack; the back-end status monitoring module is connected to the bidirectional DC Between the converter and the DC bus, it is used to collect the state monitoring data of the bidirectional DC converter;\n      \n      \n         \u6bcf\u4e2a\u5fae\u63a7\u5236\u5668\u5185\u5747\u914d\u7f6e\u6709\u72ec\u7acb\u5145\u7535\u63a7\u5236\u7a0b\u5e8f\uff0c\u6240\u8ff0\u72ec\u7acb\u5145\u7535\u63a7\u5236\u7a0b\u5e8f\u7528\u4e8e\u6839\u636e\u5bf9\u5e94\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u4e0e\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u786e\u5b9a\u76f8\u5e94\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u5145\u7535\u6a21\u5f0f\uff1bEach microcontroller is equipped with an independent charging control program, and the independent charging control program is used to determine the charging mode of the corresponding energy storage control unit according to the state monitoring data of the corresponding energy storage control unit and the DC bus voltage U A ;\n      \n      \n         \u72ec\u7acb\u5145\u7535\u63a7\u5236\u7a0b\u5e8f\u5305\u62ec\u5982\u4e0b\u6b65\u9aa4\uff1aThe independent charging control procedure includes the following steps:\n      \n      \n         \u6b65\u9aa4char1\uff1a\u83b7\u53d6\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\uff0c\u5224\u65ad\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u662f\u5426\u5927\u4e8e\u8bbe\u5b9a\u6bcd\u7ebf\u7535\u538bU1\uff0c\u6240\u8ff0\u8bbe\u5b9a\u6bcd\u7ebf\u7535\u538bU1\u5927\u4e8e\u989d\u5b9a\u76f4\u6d41\u6bcd\u7ebf\u7535\u538b\uff1b\u82e5\u5426\uff0c\u5219\u7ed3\u675f\u7a0b\u5e8f\uff1b\u82e5\u662f\uff0c\u5219\u542f\u52a8\u72ec\u7acb\u5145\u7535\u63a7\u5236\u7a0b\u5e8f\uff0c\u5e76\u8fdb\u5165\u6b65\u9aa4char2\uff1bStep char1: Obtain the DC bus voltage U A , determine whether the DC bus voltage U A is greater than the set bus voltage U 1 , and the set bus voltage U1 is greater than the rated DC bus voltage; if not, end the program; if so, start the independent Charge control program, and enter step char2;\n      \n      \n         \u6b65\u9aa4char2\uff1a\u6839\u636e\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u5224\u65ad\u50a8\u80fd\u63a7\u5236\u5355\u5143\u662f\u5426\u4e3a\u6545\u969c\u72b6\u6001\uff0c\u82e5\u662f\uff0c\u5219\u50a8\u80fd\u63a7\u5236\u5355\u5143\u9000\u51fa\u8fd0\u884c\uff0c\u5e76\u7ed3\u675f\u7a0b\u5e8f\uff1b\u82e5\u5426\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4char3\uff1bStep char2: According to the state monitoring data, determine whether the energy storage control unit is in a fault state, if so, the energy storage control unit exits the operation and ends the program; if not, then goes to step char3;\n      \n      \n         \u6b65\u9aa4char3\uff1a\u5224\u65ad\u7535\u6c60\u7ec4\u7aef\u7535\u538bUB\u662f\u5426\u5c0f\u4e8e\u8bbe\u5b9a\u7aef\u7535\u538bU2\uff0c\u6240\u8ff0\u8bbe\u5b9a\u7aef\u7535\u538bU2\u4e3a\u5355\u4f53\u7535\u6c60\u7684\u6700\u5927\u5de5\u4f5c\u7535\u538b\uff1b\u82e5\u662f\uff0c\u8fdb\u5165\u6b65\u9aa4char4\uff1b\u82e5\u5426\uff0c\u8fdb\u5165\u6b65\u9aa4char5\uff1bStep char3: determine whether the battery pack terminal voltage U B is less than the set terminal voltage U 2 , the set terminal voltage U2 is the maximum working voltage of the single battery; if so, go to step char4; if not, go to step char5;\n      \n      \n         \u6b65\u9aa4char4\uff1a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u5207\u6362\u81f3\u6052\u6d41\u5145\u7535\u6a21\u5f0f\u5bf9\u7535\u6c60\u7ec4\u8fdb\u884c\u5145\u7535\uff0c\u5e76\u56de\u5230\u6b65\u9aa4char3\uff1bStep char4: The microcontroller controls the bidirectional DC converter to switch to the constant current charging mode to charge the battery pack, and returns to step char3;\n      \n      \n         \u6b65\u9aa4char5\uff1a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u5207\u6362\u81f3\u6052\u538b\u5145\u7535\u6a21\u5f0f\u5bf9\u7535\u6c60\u7ec4\u8fdb\u884c\u5145\u7535\uff0c\u76f4\u5230\u5145\u7535\u5b8c\u6210\uff1bStep char5: The microcontroller controls the bidirectional DC converter to switch to the constant voltage charging mode to charge the battery pack until the charging is completed;\n      \n      \n         \u6bcf\u4e2a\u5fae\u63a7\u5236\u5668\u5185\u5747\u914d\u7f6e\u6709\u534f\u540c\u653e\u7535\u63a7\u5236\u7a0b\u5e8f\uff0c\u6240\u8ff0\u534f\u540c\u653e\u7535\u63a7\u5236\u7a0b\u5e8f\u7528\u4e8e\u6839\u636e\u5171\u4eab\u6570\u636e\u4e0e\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u786e\u5b9a\u6574\u4f53\u653e\u7535\u6a21\u5f0f\uff1b\u5171\u4eab\u6570\u636e\u5305\u62ec\u8d1f\u8f7d\u529f\u7387\u3001\u6bcf\u4e2a\u7535\u6c60\u7ec4\u7684\u5269\u4f59\u7535\u91cf\u4ee5\u53ca\u6bcf\u4e2a\u7535\u6c60\u7ec4\u7684\u989d\u5b9a\u8f93\u51fa\u529f\u7387\u3002A cooperative discharge control program is configured in each microcontroller, and the cooperative discharge control program is used to determine the overall discharge mode according to the shared data and the DC bus voltage U A ; the shared data includes the load power, the remaining power of each battery pack, and Rated output power of each battery pack.",
+    "2.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u7535\u6c60\u7ec4\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u5305\u62ec\u7535\u6c60\u7ec4\u7aef\u7535\u538b\u3001\u7535\u6c60\u7ec4\u8f93\u51fa\u7535\u6d41\u4e0e\u7535\u6c60\u7ec4\u6e29\u5ea6\uff1b\u5fae\u63a7\u5236\u5668\u91c7\u7528\u7b49\u6548\u7535\u8def\u6a21\u578b\u5e76\u6839\u636e\u7535\u6c60\u7ec4\u7aef\u7535\u538b\u3001\u7535\u6c60\u7ec4\u8f93\u51fa\u7535\u6d41\u4e0e\u7535\u6c60\u7ec4\u6e29\u5ea6\u5bf9\u7535\u6c60\u7ec4\u7684\u5269\u4f59\u7535\u91cfSOC\u8fdb\u884c\u8ba1\u7b97\uff1b\u7535\u6c60\u7ec4\u7aef\u7535\u538b\u4e0e\u7535\u6c60\u7ec4\u8f93\u51fa\u7535\u6d41\u4f5c\u4e3a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u5b9e\u73b0\u4e0d\u540c\u5145\u7535\u6a21\u5f0f\u7684\u4f9d\u636e\u30022. The distributed lithium battery pack energy storage system according to claim 1, wherein the state monitoring data of the battery pack includes the battery pack terminal voltage, the battery pack output current and the battery pack temperature; the microcontroller adopts an equivalent circuit The model calculates the remaining power SOC of the battery pack according to the battery pack terminal voltage, the battery pack output current and the battery pack temperature; the battery pack terminal voltage and the battery pack output current are used as the basis for the microcontroller to control the bidirectional DC converter to realize different charging modes. .",
+    "3.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u5305\u62ec\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u8f93\u51fa\u7535\u538b\u3001\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u8f93\u51fa\u7535\u6d41\uff1b3. The distributed lithium battery pack energy storage system according to claim 1, wherein the state monitoring data of the bidirectional DC converter comprises the output voltage of the bidirectional DC converter and the output current of the bidirectional DC converter;\n      \n      \n         \u4ee5\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u8f93\u51fa\u7535\u538b\u4f5c\u4e3a\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\uff1b\u5fae\u63a7\u5236\u5668\u6839\u636e\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u4f5c\u4e3a\u542f\u52a8\u5145\u7535\u6216\u662f\u653e\u7535\u7684\u5224\u636e\uff1a\u5f53\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u5927\u4e8e\u8bbe\u5b9a\u6bcd\u7ebf\u7535\u538bU1\u65f6\uff0c\u542f\u52a8\u72ec\u7acb\u5145\u7535\u63a7\u5236\u7a0b\u5e8f\uff1b\u5f53\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u5c0f\u4e8e\u7b49\u4e8e\u8bbe\u5b9a\u6bcd\u7ebf\u7535\u538bU1\u65f6\uff0c\u542f\u52a8\u534f\u540c\u653e\u7535\u63a7\u5236\u7a0b\u5e8f\uff1bTake the output voltage of the bidirectional DC converter as the DC bus voltage U A ; the microcontroller uses the DC bus voltage U A as the criterion for starting charging or discharging: when the DC bus voltage U A is greater than the set bus voltage U 1 , start Independent charging control program; when the DC bus voltage U A is less than or equal to the set bus voltage U 1 , the coordinated discharge control program is started;\n      \n      \n         \u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u8f93\u51fa\u7535\u538b\u4e0e\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u8f93\u51fa\u7535\u6d41\u4f5c\u4e3a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u5b9e\u73b0\u4e0d\u540c\u653e\u7535\u6a21\u5f0f\u7684\u4f9d\u636e\u3002The output voltage of the bidirectional DC converter and the output current of the bidirectional DC converter are used as the basis for the microcontroller to control the bidirectional DC converter to realize different discharge modes.",
+    "4.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u7535\u6c60\u7ec4\u7531\u82e5\u5e72\u6027\u80fd\u76f8\u8fd1\u7684\u5355\u4f53\u9502\u7535\u6c60\u5e76\u8054\u7ec4\u6210\u30024 . The distributed lithium battery pack energy storage system according to claim 1 , wherein the battery pack is composed of several single lithium batteries with similar performance in parallel. 5 .",
+    "5.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u534f\u540c\u653e\u7535\u63a7\u5236\u7a0b\u5e8f\u5305\u62ec\u4ee5\u4e0b\u6b65\u9aa4\uff1a5. The distributed lithium battery pack energy storage system according to claim 1, wherein the coordinated discharge control program comprises the following steps:\n      \n      \n         \u6b65\u9aa4dis1\uff1a\u83b7\u53d6\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\uff0c\u5224\u65ad\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u662f\u5426\u5c0f\u4e8e\u7b49\u4e8e\u8bbe\u5b9a\u6bcd\u7ebf\u7535\u538bU1\uff0c\u82e5\u5426\uff0c\u5219\u7ed3\u675f\u7a0b\u5e8f\uff1b\u82e5\u662f\uff0c\u5219\u542f\u52a8\u534f\u540c\u653e\u7535\u63a7\u5236\u7a0b\u5e8f\uff0c\u5e76\u8fdb\u5165\u6b65\u9aa4dis2\uff1bStep dis1: obtain the DC bus voltage UA , determine whether the DC bus voltage UA is less than or equal to the set bus voltage U 1 , if not, end the program; if so, start the coordinated discharge control program, and enter step dis2;\n      \n      \n         \u6b65\u9aa4dis2\uff1a\u6839\u636e\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u5224\u65ad\u50a8\u80fd\u63a7\u5236\u5355\u5143\u662f\u5426\u80fd\u591f\u5de5\u4f5c\uff0c\u82e5\u5426\uff0c\u5219\u50a8\u80fd\u63a7\u5236\u5355\u5143\u9000\u51fa\u8fd0\u884c\uff0c\u5e76\u7ed3\u675f\u7a0b\u5e8f\uff1b\u82e5\u662f\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis3\uff1bStep dis2: judge whether the energy storage control unit can work according to the state monitoring data, if not, the energy storage control unit exits the operation, and ends the program; if so, enter step dis3;\n      \n      \n         \u6b65\u9aa4dis3\uff1a\u5bf9\u7535\u6c60\u7ec4\u7684\u5269\u4f59\u7535\u91cfSOC\u8fdb\u884c\u6570\u636e\u5171\u4eab\uff1b\u8ba1\u7b97\u5168\u90e8\u80fd\u591f\u5de5\u4f5c\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u989d\u5b9a\u8f93\u51fa\u529f\u7387\u603b\u548c\uff0c\u5e76\u4e0e\u8d1f\u8f7d\u529f\u7387\u8fdb\u884c\u6bd4\u8f83\uff1a\u82e5\u989d\u5b9a\u8f93\u51fa\u529f\u7387\u603b\u548c\u80fd\u591f\u6ee1\u8db3\u8d1f\u8f7d\u529f\u7387\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis4\uff1b\u82e5\u989d\u5b9a\u8f93\u51fa\u529f\u7387\u603b\u548c\u4e0d\u80fd\u591f\u6ee1\u8db3\u8d1f\u8f7d\u529f\u7387\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis5\uff1bStep dis3: share data on the remaining power SOC of the battery pack; calculate the sum of the rated output power of all the energy storage control units that can work, and compare it with the load power: if the sum of the rated output power can meet the load power, then go to step dis4 ; If the sum of the rated output power cannot meet the load power, then go to step dis5;\n      \n      \n         \u6b65\u9aa4dis4\uff1a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u5207\u6362\u81f3\u76f4\u6d41\u6bcd\u7ebf\u6052\u538b\u653e\u7535\u6a21\u5f0f\uff1bStep dis4: the microcontroller controls the bidirectional DC converter to switch to the DC bus constant voltage discharge mode;\n      \n      \n         \u6b65\u9aa4dis5\uff1a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u5207\u6362\u81f3\u6052\u529f\u7387\u653e\u7535\u6a21\u5f0f\uff1a\u5168\u90e8\u80fd\u591f\u5de5\u4f5c\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\u5747\u4ee5\u989d\u5b9a\u529f\u7387\u8fdb\u884c\u8f93\u51fa\uff1bStep dis5: The microcontroller controls the bidirectional DC converter to switch to the constant power discharge mode: all the energy storage control units that can work are output at rated power;\n      \n      \n         \u6b65\u9aa4dis6\uff1a\u5224\u65ad\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u662f\u5426\u80fd\u591f\u7ef4\u6301\u5728\u8bbe\u5b9a\u6bcd\u7ebf\u7535\u538bU1\uff1b\u82e5\u662f\uff0c\u5219\u56de\u5230\u6b65\u9aa4dis5\uff1b\u82e5\u5426\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis7\uff1bStep dis6: determine whether the DC bus voltage U A can be maintained at the set bus voltage U 1 ; if so, go back to step dis5; if not, enter step dis7;\n      \n      \n         \u6b65\u9aa4dis7\uff1a\u5224\u65ad\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u7684\u4e0b\u964d\u7a0b\u5ea6\u662f\u5426\u8fbe\u5230\u7b2c\u4e00\u4e0b\u964d\u5ea6\u9608\u503c\uff1b\u82e5\u5426\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis8\uff1b\u82e5\u662f\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis9\uff1bStep dis7: judging whether the degree of decline of the DC bus voltage UA reaches the first threshold of decline; if not, proceed to step dis8; if so, proceed to step dis9;\n      \n      \n         \u6b65\u9aa4dis8\uff1a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7ef4\u6301\u6052\u529f\u7387\u653e\u7535\u6a21\u5f0f\uff0c\u5e76\u56de\u5230\u6b65\u9aa4dis7\uff1bStep dis8: the microcontroller controls the bidirectional DC converter to maintain the constant power discharge mode, and returns to step dis7;\n      \n      \n         \u6b65\u9aa4dis9\uff1a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u5207\u6362\u81f3\u6052\u6d41\u653e\u7535\u6a21\u5f0f\uff1a\u5168\u90e8\u80fd\u591f\u5de5\u4f5c\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\u5747\u4ee5\u6052\u5b9a\u7535\u6d41\u8f93\u51fa\uff1bStep dis9: The microcontroller controls the bidirectional DC converter to switch to the constant current discharge mode: all the energy storage control units that can work are output at constant current;\n      \n      \n         \u6b65\u9aa4dis10\uff1a\u5224\u65ad\u76f4\u6d41\u6bcd\u7ebf\u7535\u538bUA\u7684\u4e0b\u964d\u7a0b\u5ea6\u662f\u5426\u8fbe\u5230\u7b2c\u4e8c\u4e0b\u964d\u5ea6\u9608\u503c\uff1b\u82e5\u5426\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis11\uff1b\u82e5\u662f\uff0c\u5219\u8fdb\u5165\u6b65\u9aa4dis12\uff1bStep dis10: judging whether the degree of decline of the DC bus voltage UA reaches the second threshold of decline; if not, proceed to step dis11; if so, proceed to step dis12;\n      \n      \n         \u6b65\u9aa4dis11\uff1a\u5fae\u63a7\u5236\u5668\u63a7\u5236\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7ef4\u6301\u6052\u6d41\u653e\u7535\u6a21\u5f0f\uff0c\u5e76\u56de\u5230\u6b65\u9aa4dis10\uff1bStep dis11: The microcontroller controls the bidirectional DC converter to maintain the constant current discharge mode, and returns to step dis10;\n      \n      \n         \u6b65\u9aa4dis12\uff1a\u5fae\u63a7\u5236\u5668\u5411\u4e0a\u4f4d\u673a\u53d1\u9001\u5207\u8d1f\u8377\u8bf7\u6c42\u6216\u8005\u63a7\u5236\u50a8\u80fd\u63a7\u5236\u5355\u5143\u9000\u51fa\u8fd0\u884c\u3002Step dis12: The microcontroller sends a load shedding request to the upper computer or controls the energy storage control unit to exit operation.",
+    "6.\u6839\u636e\u6743\u5229\u8981\u6c425\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u76f4\u6d41\u6bcd\u7ebf\u6052\u538b\u653e\u7535\u6a21\u5f0f\u5305\u62ec\u5982\u4e0b\u6b65\u9aa4\uff1a6. The distributed lithium battery pack energy storage system according to claim 5, wherein the DC bus constant voltage discharge mode comprises the following steps:\n      \n      \n         \u6b65\u9aa4401\uff1a\u6839\u636e\u8d1f\u8f7d\u529f\u7387\u786e\u5b9a\u6240\u9700\u6295\u5165\u7684\u80fd\u591f\u5de5\u4f5c\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u6570\u91cf\uff0c\u9009\u51fa\u76f8\u5e94\u6570\u91cf\u7684\u80fd\u591f\u5de5\u4f5c\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\u4f5c\u4e3a\u5de5\u4f5c\u6a21\u5757\uff1bStep 401: Determine the number of working energy storage control units to be put in according to the load power, and select a corresponding number of working energy storage control units as working modules;\n      \n      \n         \u6b65\u9aa4402\uff1a\u9664\u5269\u4f59\u7535\u91cfSOC\u6700\u5c0f\u7684\u5de5\u4f5c\u6a21\u5757\u4ee5\u5916\uff0c\u5176\u4f59\u5de5\u4f5c\u6a21\u5757\u8f93\u51fa\u989d\u5b9a\u529f\u7387Pn\uff0c\u5269\u4f59\u7535\u91cfSOC\u6700\u5c0f\u7684\u5de5\u4f5c\u6a21\u5757\u8f93\u51fa\u8865\u5145\u529f\u7387Pm\uff0c\u8865\u5145\u529f\u7387Pm\uff1d(Pload-Psum)/N\uff0cN\u8868\u793a\u5269\u4f59\u7535\u91cfSOC\u6700\u5c0f\u7684\u5de5\u4f5c\u6a21\u5757\u6570\u91cf\uff0cPload\u8868\u793a\u8d1f\u8f7d\u529f\u7387\uff0cPsum\u8868\u793a\u5176\u4f59\u5de5\u4f5c\u6a21\u5757\u8f93\u51fa\u529f\u7387\u603b\u548c\u3002Step 402 : Except for the working module with the smallest remaining power SOC, the other working modules output the rated power P n , and the working module with the smallest remaining power SOC outputs the supplementary power P m , where the supplementary power P m =(P load -P sum )/N, N represents the number of working modules with the smallest remaining power SOC, P load represents the load power, and P sum represents the total output power of the remaining working modules.",
+    "7.\u6839\u636e\u6743\u5229\u8981\u6c426\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u672a\u88ab\u9009\u4e2d\u7684\u80fd\u591f\u5de5\u4f5c\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\u4f5c\u4e3a\u5907\u7528\u6a21\u5757\uff0c\u7528\u4e8e\u5728\u5de5\u4f5c\u6a21\u5757\u6545\u969c\u65f6\u6295\u5165\u5de5\u4f5c\u30027 . The distributed lithium battery pack energy storage system according to claim 6 , wherein the unselected energy storage control units that can work are used as backup modules to be put into work when the working module fails. 8 .",
+    "8.\u6839\u636e\u6743\u5229\u8981\u6c426\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u5de5\u4f5c\u6a21\u5757\u7684\u6570\u91cf\u4e3a\u6839\u636e\u8d1f\u8f7d\u529f\u7387\u786e\u5b9a\u6240\u9700\u6295\u5165\u7684\u80fd\u591f\u5de5\u4f5c\u7684\u50a8\u80fd\u63a7\u5236\u5355\u5143\u7684\u6700\u5c0f\u6570\u91cf\u30028 . The distributed lithium battery pack energy storage system according to claim 6 , wherein the number of working modules is the minimum number of working energy storage control units determined according to the load power. 9 .",
+    "9.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u5206\u5e03\u5f0f\u9502\u7535\u6c60\u7ec4\u50a8\u80fd\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff1a\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u7684\u72b6\u6001\u76d1\u6d4b\u6570\u636e\u5305\u62ec\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u6e29\u5ea6\uff1b\u8fd8\u5305\u62ec\u5fae\u63a7\u5236\u5668\u4e2d\u8fd8\u914d\u7f6e\u6709\u6e29\u5ea6\u4fdd\u62a4\u7a0b\u5e8f\uff0c\u5f53\u7535\u6c60\u7ec4\u6e29\u5ea6\u6216\u53cc\u5411\u76f4\u6d41\u53d8\u6362\u5668\u6e29\u5ea6\u9ad8\u51fa\u76f8\u5e94\u7684\u6e29\u5ea6\u9608\u503c\u65f6\uff0c\u5219\u63a7\u5236\u50a8\u80fd\u63a7\u5236\u5355\u5143\u9000\u51fa\u8fd0\u884c\u30029 . The distributed lithium battery pack energy storage system according to claim 2 , wherein: the state monitoring data of the bidirectional DC converter includes the temperature of the bidirectional DC converter; and a temperature protection program is also configured in the microcontroller, When the temperature of the battery pack or the bidirectional DC converter is higher than the corresponding temperature threshold, the energy storage control unit is controlled to exit operation."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN202010014166.4A",
+      "representative_publication": "CN111181207B",
+      "primary_language": "en",
+      "priority_date": "2020-01-07",
+      "filing_date": "2020-01-07",
+      "title": "Distributed lithium battery pack energy storage system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN202010014166.4A",
+      "representative_publication": "CN111181207B",
+      "primary_language": "en",
+      "priority_date": "2020-01-07",
+      "filing_date": "2020-01-07",
+      "title": "Distributed lithium battery pack energy storage system"
+    }
+  ],
+  "family_id": "70623321",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN102931687A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-12",
+        "publication_date": "2013-02-13",
+        "assignee_original": "\u534e\u5317\u7535\u529b\u5927\u5b66\uff08\u4fdd\u5b9a\uff09",
+        "title": "Power adjustment method for hybrid energy storage photovoltaic power station",
+        "patent_id": "patent/CN102931687A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102931687A%2Fen"
+      },
+      {
+        "publication_number": "CN102983589A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-15",
+        "publication_date": "2013-03-20",
+        "assignee_original": "\u4e2d\u56fd\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Control method of grid friendly type distributed power source based on hybrid energy storage",
+        "patent_id": "patent/CN102983589A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102983589A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN103762610B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-07",
+        "publication_date": "2016-03-02",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u7535\u5de5\u7814\u7a76\u6240",
+        "title": "Based on the distributed energy storage system of principal and subordinate's droop control",
+        "patent_id": "patent/CN103762610B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103762610B%2Fen"
+      },
+      {
+        "publication_number": "CN104993602B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-22",
+        "publication_date": "2024-07-19",
+        "assignee_original": "\u5317\u4eac\u6e05\u80fd\u4e16\u798f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Modularized energy storage system",
+        "patent_id": "patent/CN104993602B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104993602B%2Fen"
+      },
+      {
+        "publication_number": "CN105846511B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-25",
+        "publication_date": "2019-04-05",
+        "assignee_original": "\u4e2d\u7535\u5efa\u8def\u6865\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+        "title": "Accumulated energy flywheel array equalising control device in parallel and method",
+        "patent_id": "patent/CN105846511B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105846511B%2Fen"
+      },
+      {
+        "publication_number": "CN206098603U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-15",
+        "publication_date": "2017-04-12",
+        "assignee_original": "\u674e\u5fd7\u884c",
+        "title": "Power supply system based on dual-mode full-function battery management",
+        "patent_id": "patent/CN206098603U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206098603U%2Fen"
+      },
+      {
+        "publication_number": "CN106849164B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-17",
+        "publication_date": "2019-08-06",
+        "assignee_original": "\u4e2d\u5357\u5927\u5b66",
+        "title": "A unified SOC balance control method for island microgrid",
+        "patent_id": "patent/CN106849164B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106849164B%2Fen"
+      },
+      {
+        "publication_number": "CN108092352B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-27",
+        "publication_date": "2019-12-31",
+        "assignee_original": "\u6d59\u6c5f\u5927\u5b66",
+        "title": "A modulation method suitable for state-of-charge balance of multi-module battery modules",
+        "patent_id": "patent/CN108092352B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108092352B%2Fen"
+      },
+      {
+        "publication_number": "CN108599213B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-04",
+        "publication_date": "2020-05-08",
+        "assignee_original": "\u4e0a\u6d77\u7535\u529b\u5b66\u9662",
+        "title": "Improved control method of multi-energy storage independent DC microgrid considering unmatched line resistance",
+        "patent_id": "patent/CN108599213B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108599213B%2Fen"
+      },
+      {
+        "publication_number": "CN108649593B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-28",
+        "publication_date": "2021-04-30",
+        "assignee_original": "\u4e0a\u6d77\u7535\u529b\u5b66\u9662",
+        "title": "Multi-energy-storage-unit coordination control method based on charge state in direct-current microgrid",
+        "patent_id": "patent/CN108649593B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108649593B%2Fen"
+      },
+      {
+        "publication_number": "CN109687490B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-14",
+        "publication_date": "2020-08-21",
+        "assignee_original": "\u71d5\u5c71\u5927\u5b66",
+        "title": "Variable regulation factor SOC droop control method for distributed energy storage system",
+        "patent_id": "patent/CN109687490B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109687490B%2Fen"
+      },
+      {
+        "publication_number": "CN109390927A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-03",
+        "publication_date": "2019-02-26",
+        "assignee_original": "\u71d5\u5c71\u5927\u5b66",
+        "title": "It is a kind of based on SOC without interconnected communication distributed energy storage droop control method",
+        "patent_id": "patent/CN109390927A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109390927A%2Fen"
+      },
+      {
+        "publication_number": "CN109904850B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-04",
+        "publication_date": "2021-07-27",
+        "assignee_original": "\u56fd\u7f51\u65b0\u7586\u7535\u529b\u6709\u9650\u516c\u53f8\u7ecf\u6d4e\u6280\u672f\u7814\u7a76\u9662",
+        "title": "A charging and discharging control method of energy storage unit in distributed energy storage DC microgrid",
+        "patent_id": "patent/CN109904850B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109904850B%2Fen"
+      },
+      {
+        "publication_number": "CN110071497A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-05-14",
+        "publication_date": "2019-07-30",
+        "assignee_original": "\u7535\u5b50\u79d1\u6280\u5927\u5b66",
+        "title": "A kind of photovoltaic DC electricity generation system and its control method with energy storage device",
+        "patent_id": "patent/CN110071497A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110071497A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "family_to_family": [
+      {
+        "publication_number": "CN111711256A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-19",
+        "publication_date": "2020-09-25",
+        "assignee_original": "\u4e0a\u6d77\u7a7a\u95f4\u7535\u6e90\u7814\u7a76\u6240",
+        "title": "Spacecraft Distributed Power System",
+        "patent_id": "patent/CN111711256A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111711256A%2Fen"
+      },
+      {
+        "publication_number": "EP4170843A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-03",
+        "publication_date": "2023-08-23",
+        "assignee_original": "Huawei Digital Power Technologies Co., Ltd.",
+        "title": "CHARGE/DISCHARGING BALANCE CONTROL METHOD, BATTERY ARRANGEMENT AND ELECTRICAL SYSTEM",
+        "patent_id": "patent/EP4170843A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4170843A4%2Fen"
+      },
+      {
+        "publication_number": "CN112186847A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-25",
+        "publication_date": "2021-01-05",
+        "assignee_original": "\u5305\u5934\u660a\u660e\u7a00\u571f\u65b0\u7535\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Energy storage power supply auxiliary power supply system and operation method thereof",
+        "patent_id": "patent/CN112186847A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112186847A%2Fen"
+      },
+      {
+        "publication_number": "CN112531693B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-27",
+        "publication_date": "2022-08-30",
+        "assignee_original": "\u6df1\u5733\u5e02\u798f\u5149\u52a8\u529b\u901a\u4fe1\u8bbe\u5907\u6709\u9650\u516c\u53f8",
+        "title": "Direct-current side energy storage system capable of being directly connected in parallel and shared",
+        "patent_id": "patent/CN112531693B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112531693B%2Fen"
+      },
+      {
+        "publication_number": "CN113281672B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-12",
+        "publication_date": "2024-04-12",
+        "assignee_original": "\u9633\u5149\u7535\u6e90\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery pack detection control method, energy storage conversion system and computer readable storage medium",
+        "patent_id": "patent/CN113281672B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113281672B%2Fen"
+      },
+      {
+        "publication_number": "CN113644646B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-27",
+        "publication_date": "2024-06-04",
+        "assignee_original": "\u5408\u80a5\u540c\u667a\u673a\u7535\u63a7\u5236\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Voltage balance control method between multiple task loads and bus",
+        "patent_id": "patent/CN113644646B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113644646B%2Fen"
+      },
+      {
+        "publication_number": "CN114024373A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-09",
+        "publication_date": "2022-02-08",
+        "assignee_original": "\u534e\u4e3a\u6570\u5b57\u80fd\u6e90\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Energy storage system and control method thereof",
+        "patent_id": "patent/CN114024373A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114024373A%2Fen"
+      },
+      {
+        "publication_number": "CN114161994A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-06",
+        "publication_date": "2022-03-11",
+        "assignee_original": "\u56fd\u7f51\u5929\u6d25\u5e02\u7535\u529b\u516c\u53f8",
+        "title": "A method, system and device for improving battery life based on pure electric vehicle",
+        "patent_id": "patent/CN114161994A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114161994A%2Fen"
+      },
+      {
+        "publication_number": "CN114204161A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-13",
+        "publication_date": "2022-03-18",
+        "assignee_original": "\u56fd\u7f51\u5c71\u4e1c\u7701\u7535\u529b\u516c\u53f8\u79b9\u57ce\u5e02\u4f9b\u7535\u516c\u53f8",
+        "title": "Novel uninterrupted power source for transformer substation",
+        "patent_id": "patent/CN114204161A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114204161A%2Fen"
+      },
+      {
+        "publication_number": "CN114094674A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-28",
+        "publication_date": "2022-02-25",
+        "assignee_original": "\u8054\u65b9\u4e91\u5929\u79d1\u6280(\u5317\u4eac)\u6709\u9650\u516c\u53f8",
+        "title": "Battery pack parallel system",
+        "patent_id": "patent/CN114094674A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114094674A%2Fen"
+      },
+      {
+        "publication_number": "CN114362521B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-05",
+        "publication_date": "2024-01-05",
+        "assignee_original": "\u6d59\u6c5f\u5927\u5b66",
+        "title": "Control method of buck-boost hybrid circuit with wide-range multi-mode output",
+        "patent_id": "patent/CN114362521B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114362521B%2Fen"
+      },
+      {
+        "publication_number": "CN114844030B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-09",
+        "publication_date": "2024-04-09",
+        "assignee_original": "\u56fd\u7f51\u6e56\u5317\u7efc\u5408\u80fd\u6e90\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "title": "DC micro-grid bus management method and energy supply system",
+        "patent_id": "patent/CN114844030B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114844030B%2Fen"
+      },
+      {
+        "publication_number": "CN114865756B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-11",
+        "publication_date": "2022-10-11",
+        "assignee_original": "\u6d59\u6c5f\u5927\u5b66",
+        "title": "Battery energy storage system, control method, energy storage system and computer equipment",
+        "patent_id": "patent/CN114865756B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114865756B%2Fen"
+      },
+      {
+        "publication_number": "CN119908054A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-02",
+        "publication_date": "2025-04-29",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u672a\u6765\u80fd\u6e90(\u4e0a\u6d77)\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+        "title": "Grid-connected control method, unit, system and storage medium for energy storage device",
+        "patent_id": "patent/CN119908054A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119908054A%2Fen"
+      },
+      {
+        "publication_number": "CN115954976A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-29",
+        "publication_date": "2023-04-11",
+        "assignee_original": "\u4e2d\u56fd\u94c1\u5854\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Power supply system controlled by multiple paths of bidirectional and independent branches and charge-discharge control method",
+        "patent_id": "patent/CN115954976A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115954976A%2Fen"
+      },
+      {
+        "publication_number": "CN118472982B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-07",
+        "publication_date": "2025-03-18",
+        "assignee_original": "\u5e7f\u4e1c\u7f8e\u7684\u5236\u51b7\u8bbe\u5907\u6709\u9650\u516c\u53f8",
+        "title": "Energy storage system charging and discharging control method, device and equipment",
+        "patent_id": "patent/CN118472982B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118472982B%2Fen"
+      },
+      {
+        "publication_number": "CN117154789B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-08-22",
+        "publication_date": "2024-07-26",
+        "assignee_original": "\u534e\u80fd\u7f57\u6e90\u53d1\u7535\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "A medium voltage DC energy storage system for thermal power plants",
+        "patent_id": "patent/CN117154789B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117154789B%2Fen"
+      },
+      {
+        "publication_number": "CN117713323B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-02-05",
+        "publication_date": "2024-04-30",
+        "assignee_original": "\u897f\u5b89\u4e3a\u5149\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Battery SOC balance control method, system and module cascading battery energy storage system",
+        "patent_id": "patent/CN117713323B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117713323B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN111181207B",
+      "primary_language": "en",
+      "publication_date": "2021-09-21",
+      "title": "Distributed lithium battery pack energy storage system",
+      "patent_id": "patent/CN111181207B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111181207B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11855250B2",
+      "primary_language": "en",
+      "publication_date": "2023-12-26",
+      "title": "Systems and methods for series battery charging",
+      "patent_id": "patent/US11855250B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11855250B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110492185B",
+      "primary_language": "en",
+      "publication_date": "2020-10-02",
+      "title": "Lithium battery pack equalization method and system",
+      "patent_id": "patent/CN110492185B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110492185B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111029666B",
+      "primary_language": "en",
+      "publication_date": "2021-02-19",
+      "title": "Modularized active equalization battery management system and management method thereof",
+      "patent_id": "patent/CN111029666B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111029666B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112265448A",
+      "primary_language": "en",
+      "publication_date": "2021-01-26",
+      "title": "A dual-battery power supply system for an electric vehicle and its control method",
+      "patent_id": "patent/CN112265448A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112265448A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN117048426A",
+      "primary_language": "en",
+      "publication_date": "2023-11-14",
+      "title": "Electric quantity balancing method and system for vehicle battery pack and vehicle",
+      "patent_id": "patent/CN117048426A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117048426A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116691445A",
+      "primary_language": "en",
+      "publication_date": "2023-09-05",
+      "title": "Battery equalization control method under main control dormant state of battery management system",
+      "patent_id": "patent/CN116691445A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116691445A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203734326U",
+      "primary_language": "en",
+      "publication_date": "2014-07-23",
+      "title": "Battery balance management system",
+      "patent_id": "patent/CN203734326U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203734326U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205070472U",
+      "primary_language": "en",
+      "publication_date": "2016-03-02",
+      "title": "Intelligence dynamic equalization power management system",
+      "patent_id": "patent/CN205070472U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205070472U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111525647A",
+      "primary_language": "en",
+      "publication_date": "2020-08-11",
+      "title": "Energy storage power station based on retired power battery cell module reuse and charging and discharging method",
+      "patent_id": "patent/CN111525647A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111525647A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109560336B",
+      "primary_language": "en",
+      "publication_date": "2021-02-23",
+      "title": "Active maintenance method and system for vehicle-mounted power battery",
+      "patent_id": "patent/CN109560336B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109560336B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115123023A",
+      "primary_language": "en",
+      "publication_date": "2022-09-30",
+      "title": "Intelligent charging equalization system and method based on cloud data exchange",
+      "patent_id": "patent/CN115123023A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115123023A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN117913944A",
+      "primary_language": "en",
+      "publication_date": "2024-04-19",
+      "title": "BMS charge and discharge control system and charge and discharge control method",
+      "patent_id": "patent/CN117913944A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117913944A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114954134B",
+      "primary_language": "en",
+      "publication_date": "2025-03-28",
+      "title": "Charging system for multi-battery system unmanned vehicle, unmanned vehicle and charging control method",
+      "patent_id": "patent/CN114954134B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114954134B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240217386A1",
+      "primary_language": "en",
+      "publication_date": "2024-07-04",
+      "title": "Method of hybrid battery electrical energy output distribution control for electric vehicle",
+      "patent_id": "patent/US20240217386A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240217386A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116707105A",
+      "primary_language": "en",
+      "publication_date": "2023-09-05",
+      "title": "Intelligent starting power supply system for fuel oil vehicle",
+      "patent_id": "patent/CN116707105A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116707105A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215552575U",
+      "primary_language": "en",
+      "publication_date": "2022-01-18",
+      "title": "Double-battery power supply system of electric vehicle",
+      "patent_id": "patent/CN215552575U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215552575U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201732849U",
+      "primary_language": "en",
+      "publication_date": "2011-02-02",
+      "title": "Battery power management device of electric automobile",
+      "patent_id": "patent/CN201732849U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201732849U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN214100910U",
+      "primary_language": "en",
+      "publication_date": "2021-08-31",
+      "title": "5G base station energy storage and power supply system based on active battery balance control of cascade utilization",
+      "patent_id": "patent/CN214100910U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN214100910U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113315241A",
+      "primary_language": "en",
+      "publication_date": "2021-08-27",
+      "title": "Energy storage power station double-layer cooperative balance control method and system",
+      "patent_id": "patent/CN113315241A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113315241A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112467837A",
+      "primary_language": "en",
+      "publication_date": "2021-03-09",
+      "title": "Power or energy storage battery maintenance equipment and maintenance method",
+      "patent_id": "patent/CN112467837A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112467837A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111987374A",
+      "primary_language": "en",
+      "publication_date": "2020-11-24",
+      "title": "Lead-acid storage battery online activation maintenance system based on forward spike pulse excitation",
+      "patent_id": "patent/CN111987374A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111987374A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN220273369U",
+      "primary_language": "en",
+      "publication_date": "2023-12-29",
+      "title": "Intelligent starting power supply system for fuel oil vehicle",
+      "patent_id": "patent/CN220273369U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN220273369U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110994707A",
+      "primary_language": "en",
+      "publication_date": "2020-04-10",
+      "title": "Multi-power-supply system with super capacitor and control method",
+      "patent_id": "patent/CN110994707A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110994707A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17272957838954387162",
+      "scholar_authors": "Sun",
+      "publication_date": "2023",
+      "title": "Research on Modeling and Control Strategy of Plug in HEV Hybrid Power Supply",
+      "patent_id": "scholar/17272957838954387162",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17272957838954387162"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2020-05-19",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2020-05-19",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2020-06-12",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2020-06-12",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2021-09-21",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2021-09-21",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2022-11-29",
+      "code": "TR01",
+      "title": "Transfer of patent right",
+      "attributes": [
+        {
+          "label": "Effective date of registration",
+          "value": "20221116"
+        },
+        {
+          "label": "Address after",
+          "value": "No. 69, Hongguang Avenue, Banan District, Chongqing 400054 (Huaxi Campus)"
+        },
+        {
+          "label": "Patentee after",
+          "value": "Zhang Zhiguo"
+        },
+        {
+          "label": "Address before",
+          "value": "No. 69 lijiatuo Chongqing District of Banan City Road 400054 red"
+        },
+        {
+          "label": "Patentee before",
+          "value": "Chongqing University of Technology"
+        },
+        {
+          "label": "Effective date of registration",
+          "value": "20221116"
+        },
+        {
+          "label": "Address after",
+          "value": "400054 no.73-22, Hongguang Avenue, Banan District, Chongqing"
+        },
+        {
+          "label": "Patentee after",
+          "value": "Chongqing Hongyi Electric Co.,Ltd."
+        },
+        {
+          "label": "Address before",
+          "value": "No. 69, Hongguang Avenue, Banan District, Chongqing 400054 (Huaxi Campus)"
+        },
+        {
+          "label": "Patentee before",
+          "value": "Zhang Zhiguo"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-29",
+      "code": "TR01",
+      "title": "Transfer of patent right"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 107
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "230000002457",
+        "name": "bidirectional effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 79
+      },
+      {
+        "id": "238000007600",
+        "name": "charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 47
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000010277",
+        "name": "constant-current charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000010280",
+        "name": "constant potential charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "101100039010",
+        "name": "Caenorhabditis elegans dis-3 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101100030351",
+        "name": "Schizosaccharomyces pombe (strain 972 / ATCC 24843) dis2 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002035",
+        "name": "prolonged effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004088",
+        "name": "simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000013589",
+        "name": "supplement",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010281",
+        "name": "constant-current constant-voltage charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008358",
+        "name": "core component",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011089",
+        "name": "mechanical engineering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

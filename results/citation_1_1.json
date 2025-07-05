@@ -1,0 +1,1318 @@
+{
+  "search_metadata": {
+    "id": "6864e32cf3a0a7b94d4e9a9d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4bb65691ccd7a6ac/6864e32cf3a0a7b94d4e9a9d.json",
+    "created_at": "2025-07-02 07:43:40 UTC",
+    "processed_at": "2025-07-02 07:43:40 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN102983589A/en",
+    "raw_html_file": "https://serpapi.com/searches/4bb65691ccd7a6ac/6864e32cf3a0a7b94d4e9a9d.html",
+    "total_time_taken": 2.76
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN102983589A/en"
+  },
+  "title": "Control method of grid friendly type distributed power source based on hybrid energy storage",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/bc/7f/b6/0621dca817a57e/CN102983589A.pdf",
+  "publication_number": "CN102983589A",
+  "country": "China",
+  "prior_art_keywords": [
+    "converter",
+    "voltage",
+    "control",
+    "power",
+    "power source"
+  ],
+  "prior_art_date": "2012-11-15",
+  "application_number": "CN2012104606897A",
+  "inventors": [
+    {
+      "name": "\u9c8d\u8587",
+      "link": "https://patents.google.com/?inventor=%E9%B2%8D%E8%96%87",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%B2%8D%E8%96%87"
+    },
+    {
+      "name": "\u674e\u5149\u8f89",
+      "link": "https://patents.google.com/?inventor=%E6%9D%8E%E5%85%89%E8%BE%89",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%8E%E5%85%89%E8%BE%89"
+    },
+    {
+      "name": "\u4f55\u56fd\u5e86",
+      "link": "https://patents.google.com/?inventor=%E4%BD%95%E5%9B%BD%E5%BA%86",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%BD%95%E5%9B%BD%E5%BA%86"
+    },
+    {
+      "name": "\u5b59\u8273\u971e",
+      "link": "https://patents.google.com/?inventor=%E5%AD%99%E8%89%B3%E9%9C%9E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%AD%99%E8%89%B3%E9%9C%9E"
+    },
+    {
+      "name": "\u8d75\u4f1f\u7136",
+      "link": "https://patents.google.com/?inventor=%E8%B5%B5%E4%BC%9F%E7%84%B6",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%B5%B5%E4%BC%9F%E7%84%B6"
+    },
+    {
+      "name": "\u51af\u51ef\u8f89",
+      "link": "https://patents.google.com/?inventor=%E5%86%AF%E5%87%AF%E8%BE%89",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%86%AF%E5%87%AF%E8%BE%89"
+    }
+  ],
+  "assignees": [
+    "State Grid Corp of China SGCC",
+    "China Electric Power Research Institute Co Ltd CEPRI",
+    "CLP Puri Zhangbei Wind Power Research and Test Ltd"
+  ],
+  "priority_date": "2012-11-15",
+  "filing_date": "2012-11-15",
+  "publication_date": "2013-03-20",
+  "worldwide_applications": {
+    "2012": [
+      {
+        "filing_date": "2012-11-15",
+        "country_code": "CN",
+        "application_number": "CN201210460689.7A",
+        "document_id": "patent/CN102983589B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-11-15",
+      "title": "Application filed by State Grid Corp of China SGCC, China Electric Power Research Institute Co Ltd CEPRI, CLP Puri Zhangbei Wind Power Research and Test Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "State Grid Corp of China SGCC"
+    },
+    {
+      "date": "2012-11-15",
+      "title": "Priority to CN201210460689.7A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN102983589B/en"
+    },
+    {
+      "date": "2013-03-20",
+      "title": "Publication of CN102983589A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN102983589A/en"
+    },
+    {
+      "date": "2014-10-22",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2014-10-22",
+      "title": "Publication of CN102983589B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN102983589B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2032-11-15",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=102983589A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201210460689/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN102983589A"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/92/90/76/9199ff78a92ee7/HDA00002412193600011.png",
+    "https://patentimages.storage.googleapis.com/1f/66/95/25a79c1fbacc9a/HDA00002412193600012.png",
+    "https://patentimages.storage.googleapis.com/3a/16/81/84201eb1a94adc/HDA00002412193600021.png",
+    "https://patentimages.storage.googleapis.com/f5/cb/ff/4b97ecd0b32ce2/HDA00002412193600022.png",
+    "https://patentimages.storage.googleapis.com/8f/95/21/c7aef427e057a3/HDA00002412193600031.png"
+  ],
+  "classifications": [
+    {
+      "code": "Y02E70/30",
+      "description": "Systems combining energy storage with energy generation of non-fossil origin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention provides a control method of a power grid-friendly distributed power supply based on hybrid energy storage, comprising the following steps: optimizing the topology structure of the distributed power supply; and coordinatingly controlling the DC power supply system through the DC/DC converter control mode normalization model ; Grid adaptive control of DC/AC converter on the AC side. The distributed power supply can be integrated into the large power grid to reduce the impact of intermittent renewable energy generation on the grid, and provide voltage and frequency support for the grid; it can also be integrated into the micro grid as a network of off-grid micro grids The unit operates to maintain the voltage and frequency stability of the off-grid microgrid; when the external grid fails, the distributed power supply can also realize the dual-mode switching of grid-connected/isolated, improving the reliability of power supply for important loads in the system. The distributed power supply is used in conjunction with energy-type and power-type energy storage systems, which improves the technical performance and economic performance of the entire system.",
+  "abstract_original": "\u672c\u53d1\u660e\u63d0\u4f9b\u4e00\u79cd\u57fa\u4e8e\u6df7\u5408\u50a8\u80fd\u7684\u7535\u7f51\u53cb\u597d\u578b\u5206\u5e03\u5f0f\u7535\u6e90\u7684\u63a7\u5236\u65b9\u6cd5\uff0c\u5305\u62ec\u4ee5\u4e0b\u6b65\u9aa4\uff1a\u4f18\u5316\u8bbe\u8ba1\u5206\u5e03\u5f0f\u7535\u6e90\u7684\u62d3\u6251\u7ed3\u6784\uff1b\u901a\u8fc7DC/DC\u53d8\u6362\u5668\u63a7\u5236\u6a21\u5f0f\u5f52\u4e00\u5316\u6a21\u578b\u534f\u8c03\u63a7\u5236\u76f4\u6d41\u4f9b\u7535\u7cfb\u7edf\uff1b\u4ea4\u6d41\u4fa7DC/AC\u6362\u6d41\u5668\u7684\u7535\u7f51\u81ea\u9002\u5e94\u63a7\u5236\u3002\u8be5\u5206\u5e03\u5f0f\u7535\u6e90\u65e2\u53ef\u5e76\u5165\u5927\u7535\u7f51\u8fd0\u884c\uff0c\u964d\u4f4e\u95f4\u6b47\u6027\u53ef\u518d\u751f\u80fd\u6e90\u53d1\u7535\u5e76\u7f51\u5bf9\u7535\u7f51\u7684\u5f71\u54cd\uff0c\u5e76\u4e14\u5bf9\u7535\u7f51\u63d0\u4f9b\u7535\u538b\u548c\u9891\u7387\u652f\u6491\uff1b\u4e5f\u53ef\u5e76\u5165\u5fae\u7535\u7f51\uff0c\u4f5c\u4e3a\u79bb\u7f51\u578b\u5fae\u7535\u7f51\u7684\u7ec4\u7f51\u5355\u5143\u8fd0\u884c\uff0c\u7ef4\u6301\u79bb\u7f51\u578b\u5fae\u7535\u7f51\u7684\u7535\u538b\u548c\u9891\u7387\u7a33\u5b9a\uff1b\u5f53\u5916\u90e8\u7535\u7f51\u53d1\u751f\u6545\u969c\u65f6\uff0c\u8be5\u5206\u5e03\u5f0f\u7535\u6e90\u8fd8\u53ef\u4ee5\u5b9e\u73b0\u5e76\u7f51/\u5b64\u5c9b\u7684\u53cc\u6a21\u5f0f\u5207\u6362\uff0c\u63d0\u9ad8\u7cfb\u7edf\u4e2d\u91cd\u8981\u8d1f\u8377\u7684\u4f9b\u7535\u53ef\u9760\u6027\u3002\u8be5\u5206\u5e03\u5f0f\u7535\u6e90\u901a\u8fc7\u80fd\u91cf\u578b\u548c\u529f\u7387\u578b\u50a8\u80fd\u7cfb\u7edf\u914d\u5408\u5229\u7528\uff0c\u63d0\u9ad8\u4e86\u6574\u4e2a\u7cfb\u7edf\u6280\u672f\u6027\u80fd\u548c\u7ecf\u6d4e\u6027\u80fd\u3002",
+  "description_link": "https://serpapi.com/searches/6864e32cf3a0a7b94d4e9a9d/google_patents_details/description.html",
+  "claims": [
+    "1. control method based on the friendly type distributed power source of the electrical network of hybrid energy-storing is characterized in that: said method comprising the steps of:\n      Step 1: the topological structure of optimal design distributed power source;\n      Step 2: coordinate the control DC power-supply system by DC/DC convertor controls pattern normalization model;\n      Step 3: the electrical network adaptive control of AC DC/AC converter.",
+    "2. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 1, it is characterized in that: in the topological structure of the distributed power source of described step 1, intermittent renewable energy system, lithium battery energy storage battery system and super capacitor energy-storage system are in parallel with dc bus by DC/DC converter A, DC/DC converter B and DC/DC converter C respectively, consist of the DC power-supply system of distributed power source, this DC power-supply system is connected with AC system by AC DC/AC converter, forms distributed power source.",
+    "3. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 1, it is characterized in that: in the described step 2, the DC/DC converter comprises DC/DC converter A, DC/DC converter B and DC/DC converter C; The control model of DC/DC converter comprises decides voltage mode control, constant current control model and permanent power control mode; Choosing of power magnitude limit value by the instruction of voltage control loop reference power, current regulator current amplitude limit value and power control loop determined above-mentioned different control model; The constant current control model comprises constant current charge control model and constant current discharge control model.",
+    "4. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 1, it is characterized in that: in the described DC/DC convertor controls pattern normalization model, the difference of the reference value of busbar voltage and its measured value is regulated through PI, pass through again the current limit link, obtain the reference value of energy-storage system output current, the difference of energy-storage system output current reference value and its output current measured value is regulated through PI, and then by the power limiting link, obtain the reference value of energy-storage system power output, as the switch triggering signal of DC/DC converter; Described energy-storage system comprises lithium battery energy storage battery system and super capacitor energy-storage system.",
+    "5. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 1, it is characterized in that: described step 2 may further comprise the steps:\n      Step 2-1: tuning controller is measured DC bus-bar voltage U in real time\n          DC, the state-of-charge of lithium battery and the terminal voltage of super capacitor, and determine the control model of DC/DC converter according to Monitoring Data;\n        \n      Step 2-2: tuning controller is measured the load power P of the friendly type distributed power source of described electrical network in real time\n          lPower output P with intermittent renewable energy system\n          r, calculate the power shortage P of described mixed energy storage system\n          s, P\n          s=P\n          l-P\n          r, and extract P\n          sIn low frequency component P\n          B_refDescribed P\n          B_refBe the value and power reference of permanent power control mode lithium battery energy storage battery system, P\n          lBe the load power of distributed power source, P\n          rPower output for intermittent renewable energy system;\n        \n      Step 2-3: when DC bus-bar voltage drops on zone 1, i.e. U\n          0\uff1cU\n          DC\uff1cU\n          1The time, DC/DC converter A is operated in and decides voltage mode control, and its reference voltage is got U\n          Ref1, the current amplitude limit value of current regulator and the power magnitude limit value of power control loop are got respectively I\n          Max1And P\n          Max1DC/DC converter B and DC/DC converter C do not work;\n        \n      Wherein: U\n          0The maximum that-DC bus-bar voltage allows;\n        \n      U\n          DCThe real-time measurement values of-DC bus-bar voltage;\n        \n      U\n          Ref1-DC bus-bar voltage dropped on regional 1 o'clock, the fixed voltage-controlled voltage reference value of DC/DC converter A, and its choosing value is positioned at zone 1, i.e. U\n          0\uff1cU\n          Ref1\uff1cU\n          1 \n      I\n          Max1-DC/DC converter A current regulator allows the current maxima passed through;\n        \n      P\n          Max1-DC/DC converter A power control loop allows the maximum power sent;\n        \n      Step 2-4: when DC bus-bar voltage drops on zone 2, i.e. U\n          2\uff1cU\n          DC\uff1cU\n          1The time, DC/DC converter A is operated in the MPPT control model, and DC/DC converter B is operated in and decides voltage mode control, and its reference voltage is got U\n          Ref2, the current amplitude limit value of current regulator and the power magnitude limit value of power control loop are got respectively I\n          Max2And P\n          Max2DC/DC converter C is operated in the constant current discharge control model, and the reference voltage of its voltage control loop is got U\n          Ref_ab, the amplitude limit value of current regulator and the amplitude limit value of power control loop are got respectively I\n          Sc_refAnd P\n          Max3In this process, the terminal voltage U of tuning controller Real-Time Monitoring super capacitor\n          UcIf detect U\n          Min\uff1cU\n          Uc\uff1cU\n          Max, change step 2-5 operation over to;\n        \n      Wherein: U\n          Ref2-DC bus-bar voltage dropped on regional 2 o'clock, the fixed voltage-controlled voltage reference value of DC/DC converter B, and its choosing value is positioned at zone 2, i.e. U\n          1\uff1cU\n          Ref2\uff1cU\n          2 \n      I\n          Max2-DC/DC converter B current regulator allows the current maxima passed through;\n        \n      P\n          Max2-DC/DC converter B power control loop allows the maximum power sent;\n        \n      U\n          Ref_abThe voltage reference value of-DC/DC converter C voltage control loop;\n        \n      I\n          Sc_refThe reference value of the super capacitor charging and discharging currents of-setting;\n        \n      P\n          Max3-DC/DC converter C power control loop allows the maximum power sent;\n        \n      U\n          UcThe terminal voltage of-super capacitor;\n        \n      U\n          MinThe smallest end voltage that-super capacitor allows;\n        \n      U\n          MaxThe maximum terminal voltage that-super capacitor allows;\n        \n      Step 2-5: when DC bus-bar voltage drops on zone 3, i.e. U\n          3\uff1cU\n          DC\uff1cU\n          2The time, DC/DC converter A is operated in the MPPT pattern, and DC/DC converter B is operated in permanent power control mode, and the voltage reference value of its voltage control loop is got U '\n          Ref-ab, the amplitude limit value of current regulator and the amplitude limit value of power control loop are got respectively I\n          Max2And P\n          Max2DC/DC converter C is operated in and decides voltage mode control, and the reference voltage of its voltage control loop is got U\n          Ref3, the amplitude limit value of current regulator and the amplitude limit value of power control loop are got respectively I\n          Max3And P\n          Max3 \n      Wherein:\n      U '\n          Ref-abThe voltage reference value of-DC/DC converter B voltage control loop;\n        \n      U\n          Ref3-DC bus-bar voltage dropped on regional 3 o'clock, the fixed voltage-controlled voltage reference value of DC/DC converter C, and its choosing value is positioned at zone 3, i.e. U\n          3\uff1cU\n          Ref3\uff1cU\n          2 \n      I\n          Max3-DC/DC converter C current regulator allows the current maxima passed through;\n        \n      Step 2-6: when DC bus-bar voltage drops on zone 4, i.e. U\n          4\uff1cU\n          DC\uff1cU\n          3The time, DC/DC converter A is operated in the MPPT pattern, and the DC/DC converter B of lithium battery system is operated in and decides voltage mode control, and the voltage reference value of its voltage control loop is got U\n          Ref4, the amplitude limit value of current regulator and the amplitude limit value of power control loop are got respectively I\n          Max2And P\n          Max2DC/DC converter C is operated in the constant current charge control model, and the reference voltage of its voltage control loop is got U\n          Ref_ab, the amplitude limit value of current regulator and the amplitude limit value of power control loop are got respectively I\n          Sc_refAnd P\n          Max3, in this process, the terminal voltage U of tuning controller Real-Time Monitoring super capacitor\n          UcIf detect U\n          Min\uff1cU\n          Uc\uff1cU\n          Max, change step 2-5 operation over to;\n        \n      Wherein:\n      U\n          4The maximum U that-DC bus-bar voltage allows\n          0\uff1eU\n          1\uff1eU\n          2\uff1eU\n          3\uff1eU\n          4 \n      U\n          Ref4-DC bus-bar voltage dropped on regional 4 o'clock, the fixed voltage-controlled voltage reference value of DC/DC converter B, and its choosing value should drop in the zone 4, i.e. U\n          4\uff1cU\n          Ref4\uff1cU\n          3",
+    "6. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 1, it is characterized in that: in the described step 3, AC DC/AC converter adopts the control of motor synchronizing voltage source, introduce simultaneously virtual impedance control and the control of double mode seamless switching, and to the normalized of above-mentioned control model, so that distributed power source is when incorporating the little electrical network of mesolow into, can with inverter type distributed power source or conventional synchronization motor-type distributed power source group net operation in parallel.",
+    "7. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 6, it is characterized in that: in the control of motor synchronizing voltage source, three-phase voltage and the electric current of the output of Real-time Collection DC/AC converter, according to instantaneous power theory, calculate active-power P and the reactive power Q of the output of DC/AC converter, adopt the control of motor synchronizing voltage source, calculate the reference frequency f of the virtual output voltage phasor of DC/AC converter\n          Vir_refWith reference amplitude V\n          Vir_ref:\n        \n      \n        \n      \n      Wherein:\n      f\n          Vir_refThe reference frequency of the virtual output voltage phasor of-DC/AC converter;\n        \n      V\n          Vir_refThe reference amplitude of the virtual output voltage phasor of-DC/AC converter;\n        \n      f\n          *The reference frequency of-mixed energy storage system rated voltage;\n        \n      V\n          *The reference amplitude of-mixed energy storage system rated voltage;\n        \n      The sagging coefficient of m-meritorious/frequency droop control;\n      The sagging coefficient of n-REACTIVE POWER/VOLTAGE droop control;\n      P\n          *-DC/AC converter is at f\n          *The active power reference value of lower output;\n        \n      Q\n          *-DC/AC converter is at V\n          *The reactive power reference qref of lower output;\n        \n      The active power that the P-DC/AC converter sends;\n      The reactive power that the Q-DC/AC converter sends;\n      M and n through type (2-2) calculate:\n      \n        \n      \n      Wherein:\n      f\n          MinThe minimum operation frequency that-mixed energy storage system allows;\n        \n      V\n          MinThe minimum operation voltage that-mixed energy storage system allows;\n        \n      P\n          MaxThe maximum active power that-converter can be exported;\n        \n      Q\n          MaxThe maximum reactive power that-converter can be exported.",
+    "8. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 6, it is characterized in that: in the virtual impedance control, (2-3) calculates according to formula\n           \n      \n        \n      \n      \n        \n      \n      In the formula:\n       The reference phasor of the virtual output voltage phasor of-DC/AC converter;\n        \n       The reference phasor of-DC/AC converter output voltage phasor;\n        \n       The electric current phasor that-DC/AC converter sends;\n        \n      Z\n          Vir-virtual impedance.",
+    "9. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 6 is characterized in that: in the double mode seamless switching control,\n      When distributed power source detected large electric network fault, the switch that is incorporated into the power networks disconnected, f\n          *And V\n          *Set-point change into set point under the independent operation mode by the frequency of line voltage and amplitude;\n        \n      When the fault clearance of large electrical network, distributed power source is converted to when being incorporated into the power networks pattern by independent operation mode, starts the motor synchronizing control of distributed power source, wait to satisfy when being incorporated into the power networks condition, the closure switch that is incorporated into the power networks is incorporated into the power networks distributed power source, is incorporated into the power networks to the impact of electrical network to reduce distributed power source.",
+    "10. the control method of the friendly type distributed power source of the electrical network based on hybrid energy-storing according to claim 9, it is characterized in that: in the motor synchronizing control, the frequency adjusted value of DC/AC converter output voltage phasor and range-adjusting value through type (2-5) calculate:\n      \n        \n      \n      Wherein:\n      The frequency adjusted value of \u0394 f-DC/AC converter output voltage phasor;\n      The range-adjusting value of \u0394 U-DC/AC converter output voltage phasor;\n      K\n          P1The proportional control factor of-DC/AC frequency inverter Synchronization Control;\n        \n      K\n          I1The integral adjustment coefficient of-DC/AC frequency inverter Synchronization Control;\n        \n      K\n          P2-DC/AC converter voltage magnitude is followed the tracks of the proportional control factor in the control;\n        \n      K\n          I2-DC/AC converter voltage magnitude is followed the tracks of the integral adjustment coefficient in the control;\n        \n      \u03b8\n          gThe phase angle of-line voltage phasor;\n        \n      \u03b8\n          iThe phase angle of the voltage phasor that-DC/AC converter sends;\n        \n      U\n          gThe amplitude of-line voltage phasor;\n        \n      U\n          iThe amplitude of the voltage phasor that-DC/AC converter sends."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201210460689.7A",
+      "representative_publication": "CN102983589B",
+      "primary_language": "en",
+      "priority_date": "2012-11-15",
+      "filing_date": "2012-11-15",
+      "title": "Control method of grid friendly type distributed power source based on hybrid energy storage"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201210460689.7A",
+      "representative_publication": "CN102983589B",
+      "primary_language": "en",
+      "priority_date": "2012-11-15",
+      "filing_date": "2012-11-15",
+      "title": "Control method of grid friendly type distributed power source based on hybrid energy storage"
+    }
+  ],
+  "family_id": "47857408",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN101969281A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-14",
+        "publication_date": "2011-02-09",
+        "assignee_original": "\u5317\u4eac\u56db\u65b9\u7ee7\u4fdd\u81ea\u52a8\u5316\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Coordination control and optimization method for battery energy accumulation and photovoltaic power generation based on co-direct current bus",
+        "patent_id": "patent/CN101969281A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101969281A%2Fen"
+      },
+      {
+        "publication_number": "CN102157956A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-03-01",
+        "publication_date": "2011-08-17",
+        "assignee_original": "\u56fd\u7f51\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Virtual-impedance-based inverter parallel running method",
+        "patent_id": "patent/CN102157956A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102157956A%2Fen"
+      },
+      {
+        "publication_number": "CN102545260A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-16",
+        "publication_date": "2012-07-04",
+        "assignee_original": "\u4e2d\u56fd\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Method for controlling automatic seamless switching between grid-connected mode and grid-isolated mode of microgrid",
+        "patent_id": "patent/CN102545260A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102545260A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\u6218\u6770\u7b49: \"\u5206\u5e03\u5f0f\u7535\u6e90\u548c\u5fae\u7f51\u5728\u667a\u80fd\u914d\u7535\u7f51\u81ea\u6108\u529f\u80fd\u4e2d\u7684\u4f5c\u7528\u5206\u6790\", \u300a\u5c71\u4e1c\u7535\u529b\u9ad8\u7b49\u4e13\u79d1\u5b66\u6821\u5b66\u62a5\u300b",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN103257299A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-05-20",
+        "publication_date": "2013-08-21",
+        "assignee_original": "\u56fd\u5bb6\u7535\u7f51\u516c\u53f8",
+        "title": "Microgrid technical verification platform device based on hybrid energy storage",
+        "patent_id": "patent/CN103257299A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103257299A%2Fen"
+      },
+      {
+        "publication_number": "CN103419680A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-29",
+        "publication_date": "2013-12-04",
+        "assignee_original": "\u534e\u5317\u7535\u529b\u5927\u5b66\uff08\u4fdd\u5b9a\uff09",
+        "title": "Direct-current traction power supply system based on distributed power supply",
+        "patent_id": "patent/CN103419680A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103419680A%2Fen"
+      },
+      {
+        "publication_number": "CN103501017A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-26",
+        "publication_date": "2014-01-08",
+        "assignee_original": "\u5317\u4eac\u5317\u53d8\u5fae\u7535\u7f51\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Microgrid stabilization controller",
+        "patent_id": "patent/CN103501017A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103501017A%2Fen"
+      },
+      {
+        "publication_number": "CN103545905A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-11",
+        "publication_date": "2014-01-29",
+        "assignee_original": "\u56fd\u7f51\u6cb3\u5357\u7701\u7535\u529b\u516c\u53f8\u5357\u9633\u4f9b\u7535\u516c\u53f8",
+        "title": "A Coordinated Energy Control Method for Photovoltaic DC Microgrid",
+        "patent_id": "patent/CN103545905A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103545905A%2Fen"
+      },
+      {
+        "publication_number": "CN103580291A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-27",
+        "publication_date": "2014-02-12",
+        "assignee_original": "\u4e0a\u6d77\u7a7a\u95f4\u7535\u6e90\u7814\u7a76\u6240",
+        "title": "Battery energy storage system integrating energy type and power type and control method thereof",
+        "patent_id": "patent/CN103580291A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103580291A%2Fen"
+      },
+      {
+        "publication_number": "CN103580046A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-27",
+        "publication_date": "2014-02-12",
+        "assignee_original": "\u4e0a\u6d77\u7a7a\u95f4\u7535\u6e90\u7814\u7a76\u6240",
+        "title": "Compound energy storage proportioning method for active distribution network",
+        "patent_id": "patent/CN103580046A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103580046A%2Fen"
+      },
+      {
+        "publication_number": "CN103944187A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-25",
+        "publication_date": "2014-07-23",
+        "assignee_original": "\u5e7f\u4e1c\u5de5\u4e1a\u5927\u5b66",
+        "title": "Micro-grid subnet structure and control method with constant and time-sharing output impedance",
+        "patent_id": "patent/CN103944187A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103944187A%2Fen"
+      },
+      {
+        "publication_number": "CN104078978A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-02",
+        "publication_date": "2014-10-01",
+        "assignee_original": "\u6c5f\u82cf\u5927\u5b66",
+        "title": "Electric vehicle grid connection primary frequency modulation control method for smart power grid",
+        "patent_id": "patent/CN104078978A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104078978A%2Fen"
+      },
+      {
+        "publication_number": "CN104280624A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-10",
+        "publication_date": "2015-01-14",
+        "assignee_original": "\u5317\u4eac\u4e2d\u7535\u5efa\u6295\u5fae\u7535\u7f51\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Multifunctional intelligent micro-grid application platform",
+        "patent_id": "patent/CN104280624A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104280624A%2Fen"
+      },
+      {
+        "publication_number": "CN104333964A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-17",
+        "publication_date": "2015-02-04",
+        "assignee_original": "\u6b66\u6c49\u51cc\u4e91\u5149\u7535\u79d1\u6280\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Control circuit and control method for pulse xenon lamp power supply",
+        "patent_id": "patent/CN104333964A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104333964A%2Fen"
+      },
+      {
+        "publication_number": "CN104716835A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-23",
+        "publication_date": "2015-06-17",
+        "assignee_original": "\u540c\u6d4e\u5927\u5b66",
+        "title": "Bidirectional direct current converter based on super-capacitor and accumulator hybrid energy storage system of Buck/Boost circuit and control method thereof",
+        "patent_id": "patent/CN104716835A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104716835A%2Fen"
+      },
+      {
+        "publication_number": "CN104810822A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-22",
+        "publication_date": "2015-07-29",
+        "assignee_original": "\u4e2d\u56fd\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Control method of micro-grid bidirectional DC/DC (Direct Current/Direct Current) change drooping coefficient",
+        "patent_id": "patent/CN104810822A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104810822A%2Fen"
+      },
+      {
+        "publication_number": "CN104810845A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-15",
+        "publication_date": "2015-07-29",
+        "assignee_original": "\u56fd\u7f51\u5180\u5317\u7535\u529b\u6709\u9650\u516c\u53f8\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Distributed optical energy storage participated bus regulation self-adaptive control device and method",
+        "patent_id": "patent/CN104810845A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104810845A%2Fen"
+      },
+      {
+        "publication_number": "CN104821607A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-15",
+        "publication_date": "2015-08-05",
+        "assignee_original": "\u4e1c\u5317\u5927\u5b66",
+        "title": "Photovoltaic microgrid power equalization control method based on three-end cooperative control",
+        "patent_id": "patent/CN104821607A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104821607A%2Fen"
+      },
+      {
+        "publication_number": "CN104868502A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-16",
+        "publication_date": "2015-08-26",
+        "assignee_original": "\u5317\u4eac\u4ebf\u5229\u667a\u6167\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Distributed photovoltaic inverter control method suitable for micro-grid",
+        "patent_id": "patent/CN104868502A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104868502A%2Fen"
+      },
+      {
+        "publication_number": "CN105071393A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-08",
+        "publication_date": "2015-11-18",
+        "assignee_original": "\u8bb8\u7ee7\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+        "title": "Alternating current/direct-current hybrid microgrid direct-current busbar voltage control method",
+        "patent_id": "patent/CN105071393A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105071393A%2Fen"
+      },
+      {
+        "publication_number": "CN105591382A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-12",
+        "publication_date": "2016-05-18",
+        "assignee_original": "\u56fd\u5bb6\u7535\u7f51\u516c\u53f8",
+        "title": "Network source coordination power control method of isolated photovoltaic direct current microgrid",
+        "patent_id": "patent/CN105591382A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105591382A%2Fen"
+      },
+      {
+        "publication_number": "US9362745B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-10",
+        "publication_date": "2016-06-07",
+        "assignee_original": "Delta Electronics (Shanghai) Co., Ltd.",
+        "title": "Power storage module and power storage device",
+        "patent_id": "patent/US9362745B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9362745B2%2Fen"
+      },
+      {
+        "publication_number": "CN105826917A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-04",
+        "publication_date": "2016-08-03",
+        "assignee_original": "\u901a\u7528\u7535\u6c14\u516c\u53f8",
+        "title": "Power conversion system, control method thereof and wind turbine power generation system",
+        "patent_id": "patent/CN105826917A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105826917A%2Fen"
+      },
+      {
+        "publication_number": "CN105870911A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-17",
+        "publication_date": "2016-08-17",
+        "assignee_original": "\u56fd\u7f51\u6d59\u6c5f\u7701\u7535\u529b\u516c\u53f8\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Multi-source coordination control method for direct-current microgrid",
+        "patent_id": "patent/CN105870911A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105870911A%2Fen"
+      },
+      {
+        "publication_number": "CN106058864A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-08",
+        "publication_date": "2016-10-26",
+        "assignee_original": "\u4e1c\u5357\u5927\u5b66",
+        "title": "A control method for grid-friendly equipment participating in grid frequency regulation",
+        "patent_id": "patent/CN106058864A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106058864A%2Fen"
+      },
+      {
+        "publication_number": "CN106451717A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-12",
+        "publication_date": "2017-02-22",
+        "assignee_original": "\u6d59\u6c5f\u5de5\u4e1a\u5927\u5b66",
+        "title": "Storage battery and super capacitor mixed energy storage system's power charge and discharge switching control method",
+        "patent_id": "patent/CN106451717A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106451717A%2Fen"
+      },
+      {
+        "publication_number": "US9620960B2",
+        "primary_language": "en",
+        "priority_date": "2014-01-13",
+        "publication_date": "2017-04-11",
+        "assignee_original": "Abb Schweiz Ag",
+        "title": "Control of a stabilizing energy storage in a microgrid",
+        "patent_id": "patent/US9620960B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9620960B2%2Fen"
+      },
+      {
+        "publication_number": "CN108023366A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-25",
+        "publication_date": "2018-05-11",
+        "assignee_original": "\u5357\u4eac\u5de5\u7a0b\u5b66\u9662",
+        "title": "A kind of method of anti-neutral point of main transformer overvoltage for Thief zone photovoltaic",
+        "patent_id": "patent/CN108023366A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108023366A%2Fen"
+      },
+      {
+        "publication_number": "US10008854B2",
+        "primary_language": "en",
+        "priority_date": "2015-02-19",
+        "publication_date": "2018-06-26",
+        "assignee_original": "Enphase Energy, Inc.",
+        "title": "Method and apparatus for time-domain droop control with integrated phasor current control",
+        "patent_id": "patent/US10008854B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10008854B2%2Fen"
+      },
+      {
+        "publication_number": "CN108565887A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-31",
+        "publication_date": "2018-09-21",
+        "assignee_original": "\u6e56\u5317\u5de5\u4e1a\u5927\u5b66",
+        "title": "Energy storage link maintains micro-capacitance sensor busbar voltage subregion curve dynamic droop control method",
+        "patent_id": "patent/CN108565887A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108565887A%2Fen"
+      },
+      {
+        "publication_number": "CN109229220A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-11",
+        "publication_date": "2019-01-18",
+        "assignee_original": "\u5357\u4eac\u519c\u4e1a\u5927\u5b66",
+        "title": "A kind of industrialized agriculture crawler type pure electric vehicle",
+        "patent_id": "patent/CN109229220A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109229220A%2Fen"
+      },
+      {
+        "publication_number": "CN110224435A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-19",
+        "publication_date": "2019-09-10",
+        "assignee_original": "\u5e7f\u4e1c\u5fd7\u6210\u51a0\u519b\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+        "title": "An energy control method for an island power supply system with hybrid energy storage",
+        "patent_id": "patent/CN110224435A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110224435A%2Fen"
+      },
+      {
+        "publication_number": "CN111181207A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-07",
+        "publication_date": "2020-05-19",
+        "assignee_original": "\u91cd\u5e86\u7406\u5de5\u5927\u5b66",
+        "title": "A distributed lithium battery pack energy storage system",
+        "patent_id": "patent/CN111181207A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111181207A%2Fen"
+      },
+      {
+        "publication_number": "CN111224408A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-10",
+        "publication_date": "2020-06-02",
+        "assignee_original": "\u56fd\u7f51\u6d59\u6c5f\u7701\u7535\u529b\u6709\u9650\u516c\u53f8\u7ecd\u5174\u4f9b\u7535\u516c\u53f8",
+        "title": "A frequency support system of regional power grid based on distributed energy storage device",
+        "patent_id": "patent/CN111224408A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111224408A%2Fen"
+      },
+      {
+        "publication_number": "CN111917128A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-13",
+        "publication_date": "2020-11-10",
+        "assignee_original": "\u6d59\u6c5f\u5927\u5b66",
+        "title": "Voltage source synchronous control method for doubly-fed wind power system based on virtual leakage inductance",
+        "patent_id": "patent/CN111917128A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111917128A%2Fen"
+      },
+      {
+        "publication_number": "CN111971895A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-05",
+        "publication_date": "2020-11-20",
+        "assignee_original": "\u74e6\u9521\u5170\u5317\u7f8e\u6709\u9650\u516c\u53f8",
+        "title": "Apparatus, device and computer-implemented method for controlling a power plant system",
+        "patent_id": "patent/CN111971895A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111971895A%2Fen"
+      },
+      {
+        "publication_number": "CN112821460A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-22",
+        "publication_date": "2021-05-18",
+        "assignee_original": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66",
+        "title": "Self-synchronizing voltage source wind turbine generator set with synchronous generator supporting power grid operation",
+        "patent_id": "patent/CN112821460A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112821460A%2Fen"
+      },
+      {
+        "publication_number": "CN113675869A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-23",
+        "publication_date": "2021-11-19",
+        "assignee_original": "\u56fd\u7f51\u8fbd\u5b81\u7701\u7535\u529b\u6709\u9650\u516c\u53f8\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "A demand side storage and charging system and method suitable for distribution station area",
+        "patent_id": "patent/CN113675869A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113675869A%2Fen"
+      },
+      {
+        "publication_number": "CN113890081A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-21",
+        "publication_date": "2022-01-04",
+        "assignee_original": "\u56fd\u7f51\u6c5f\u82cf\u7701\u7535\u529b\u6709\u9650\u516c\u53f8\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Operation control system for flexible interconnected direct-current micro-grid in multiple regions",
+        "patent_id": "patent/CN113890081A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113890081A%2Fen"
+      },
+      {
+        "publication_number": "CN114696320A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-25",
+        "publication_date": "2022-07-01",
+        "assignee_original": "\u56fd\u7f51\u6e56\u5317\u7701\u7535\u529b\u6709\u9650\u516c\u53f8\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Self-synchronous voltage source control and low voltage ride through control dual-mode switching control method for new energy power generation equipment",
+        "patent_id": "patent/CN114696320A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114696320A%2Fen"
+      },
+      {
+        "publication_number": "WO2023000580A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-22",
+        "publication_date": "2023-01-26",
+        "assignee_original": "\u6f33\u5dde\u79d1\u534e\u6280\u672f\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Energy routing control method and apparatus, and energy routing system",
+        "patent_id": "patent/WO2023000580A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023000580A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN102983589A",
+      "primary_language": "en",
+      "publication_date": "2013-03-20",
+      "title": "Control method of grid friendly type distributed power source based on hybrid energy storage",
+      "patent_id": "patent/CN102983589A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102983589A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103647274B",
+      "primary_language": "en",
+      "publication_date": "2016-01-20",
+      "title": "Energy control method for micro-grid system capable of being operated in grid-connected mode and off-grid mode",
+      "patent_id": "patent/CN103647274B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103647274B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104810858B",
+      "primary_language": "en",
+      "publication_date": "2017-03-29",
+      "title": "A kind of light stores up the control method of micro-grid connection electricity generation system",
+      "patent_id": "patent/CN104810858B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104810858B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104319816B",
+      "primary_language": "en",
+      "publication_date": "2016-08-17",
+      "title": "A kind of light storage alternating current-direct current mixing micro-grid system and control method thereof",
+      "patent_id": "patent/CN104319816B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104319816B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104362656B",
+      "primary_language": "en",
+      "publication_date": "2016-06-29",
+      "title": "A kind of control method stabilizing microgrid power swing based on hybrid energy-storing VSI",
+      "patent_id": "patent/CN104362656B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104362656B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102983563B",
+      "primary_language": "en",
+      "publication_date": "2014-07-23",
+      "title": "Coordination control method for common direct current bus mixing energy storage systems",
+      "patent_id": "patent/CN102983563B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102983563B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104410105B",
+      "primary_language": "en",
+      "publication_date": "2016-08-24",
+      "title": "Based on dc bus cancellated Intelligent wind power field control method",
+      "patent_id": "patent/CN104410105B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104410105B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103050995B",
+      "primary_language": "en",
+      "publication_date": "2016-10-05",
+      "title": "A kind of micro-capacitance sensor pilot system",
+      "patent_id": "patent/CN103050995B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103050995B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106712091A",
+      "primary_language": "en",
+      "publication_date": "2017-05-24",
+      "title": "Novel alternating current and direct current hybrid micro-grid system and control strategy thereof",
+      "patent_id": "patent/CN106712091A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106712091A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106877368A",
+      "primary_language": "en",
+      "publication_date": "2017-06-20",
+      "title": "A kind of photovoltaic generation micro-grid system hybrid energy-storing control method",
+      "patent_id": "patent/CN106877368A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106877368A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103457281A",
+      "primary_language": "en",
+      "publication_date": "2013-12-18",
+      "title": "Coordination control method capable of enabling super-capacitor energy storage system to participate in electric power primary frequency modulation",
+      "patent_id": "patent/CN103457281A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103457281A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102738836A",
+      "primary_language": "en",
+      "publication_date": "2012-10-17",
+      "title": "Alternating current and direct current hybrid micro power grid system and control method thereof",
+      "patent_id": "patent/CN102738836A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102738836A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105633983A",
+      "primary_language": "en",
+      "publication_date": "2016-06-01",
+      "title": "Control system for improving frequency support capability of wind turbine generator set by super capacitor",
+      "patent_id": "patent/CN105633983A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105633983A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105356505A",
+      "primary_language": "en",
+      "publication_date": "2016-02-24",
+      "title": "Multi-source distributed power generation system suitable for micro electrical network and control method",
+      "patent_id": "patent/CN105356505A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105356505A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103606942B",
+      "primary_language": "en",
+      "publication_date": "2015-09-23",
+      "title": "A kind of mixed liquor stream energy-storage system with no-power compensation function",
+      "patent_id": "patent/CN103606942B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103606942B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106936148B",
+      "primary_language": "en",
+      "publication_date": "2023-07-18",
+      "title": "A photovoltaic-energy storage conversion system and its control method",
+      "patent_id": "patent/CN106936148B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106936148B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109103925A",
+      "primary_language": "en",
+      "publication_date": "2018-12-28",
+      "title": "A kind of micro-capacitance sensor based on photovoltaic power generation",
+      "patent_id": "patent/CN109103925A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109103925A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2019075879A1",
+      "primary_language": "en",
+      "publication_date": "2019-04-25",
+      "title": "Running mode conversion method for alternating-current/direct-current hybrid microgrid",
+      "patent_id": "patent/WO2019075879A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019075879A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7934667063376919796",
+      "scholar_authors": "Sassi et al.",
+      "publication_date": "2017",
+      "title": "Energy management of PV/wind/battery hybrid energy system based on batteries utilization optimization",
+      "patent_id": "scholar/7934667063376919796",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7934667063376919796"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110518608A",
+      "primary_language": "en",
+      "publication_date": "2019-11-29",
+      "title": "Isolated island microgrid energy control method based on hybrid energy-storing and electric automobile charging station",
+      "patent_id": "patent/CN110518608A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110518608A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109888786A",
+      "primary_language": "en",
+      "publication_date": "2019-06-14",
+      "title": "A control method for AC-DC hybrid microgrid",
+      "patent_id": "patent/CN109888786A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109888786A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12807671414537163047",
+      "scholar_authors": "Wu et al.",
+      "publication_date": "2022",
+      "title": "Voltage control of offshore wind farm considering reactive ability of electrochemical energy storage",
+      "patent_id": "scholar/12807671414537163047",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12807671414537163047"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113572381B",
+      "primary_language": "en",
+      "publication_date": "2023-03-07",
+      "title": "Energy conversion device of micro-grid",
+      "patent_id": "patent/CN113572381B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113572381B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115207978A",
+      "primary_language": "en",
+      "publication_date": "2022-10-18",
+      "title": "Water-light-storage complementary power generation system based on pumped storage unit and control method",
+      "patent_id": "patent/CN115207978A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115207978A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206517073U",
+      "primary_language": "en",
+      "publication_date": "2017-09-22",
+      "title": "A kind of new friendly intelligent micro-grid",
+      "patent_id": "patent/CN206517073U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206517073U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2013-03-20",
+      "code": "C06",
+      "title": "Publication"
+    },
+    {
+      "date": "2013-03-20",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2013-06-05",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2013-06-05",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2014-10-22",
+      "code": "C14",
+      "title": "Grant of patent or utility model"
+    },
+    {
+      "date": "2014-10-22",
+      "code": "GR01",
+      "title": "Patent grant"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 59
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "238000010606",
+        "name": "normalization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000003044",
+        "name": "adaptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000003990",
+        "name": "capacitor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "101100537098",
+        "name": "Mus musculus Alyref gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "101100269674",
+        "name": "Mus musculus Alyref2 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "101150095908",
+        "name": "apex1 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000007665",
+        "name": "sagging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000011217",
+        "name": "control strategy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010977",
+        "name": "unit operation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007812",
+        "name": "deficiency",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009977",
+        "name": "dual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004134",
+        "name": "energy conservation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006641",
+        "name": "stabilisation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011105",
+        "name": "stabilization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}
