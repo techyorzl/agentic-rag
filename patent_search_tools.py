@@ -17,7 +17,6 @@ def keyword_search(query_text, top_k=20):
     index_name = "patents"
 
     try:
-        # Create a keyword search query
         search_query = {
             "size": top_k,
             "query": {"match": {"abstract": query_text}},
@@ -45,10 +44,7 @@ def semantic_search(query_text, top_k=20):
     index_name = "patents"
 
     try:
-        # Get embedding for the query
         query_embedding = get_embedding(query_text)
-
-        # Create a semantic search query
         search_query = {
             "size": top_k,
             "query": {
@@ -84,10 +80,7 @@ def hybrid_search(query_text, top_k=20):
     index_name = "patents"
 
     try:
-        # Get embedding for the query
         query_embedding = get_embedding(query_text)
-
-        # Create a hybrid search query
         search_query = {
             "size": top_k,
             "query": {
@@ -105,7 +98,6 @@ def hybrid_search(query_text, top_k=20):
         return response["hits"]["hits"]
     except Exception as e:
         print(f"Hybrid search error: {e}")
-        # Fall back to keyword search
         try:
             fallback_query = {
                 "size": top_k,
@@ -139,7 +131,6 @@ def iterative_search(query_text, refinement_steps=3, top_k=20):
 
     for i in range(refinement_steps):
         try:
-            # Perform search with current query
             search_query = {
                 "size": top_k,
                 "query": {"match": {"abstract": current_query}},
@@ -148,16 +139,13 @@ def iterative_search(query_text, refinement_steps=3, top_k=20):
 
             response = client.search(index=index_name, body=search_query)
             results = response["hits"]["hits"]
-
-            # Add new results
             for result in results:
                 if result not in all_results:
                     all_results.append(result)
 
             if not results:
                 break
-
-            # Refine query based on top result
+                
             if results:
                 top_result = results[0]
                 current_query = f"{current_query} {top_result['_source']['title']}"
@@ -171,7 +159,7 @@ def iterative_search(query_text, refinement_steps=3, top_k=20):
 
 if __name__ == "__main__":
     query = "lithium battery"
-
+# Currently all commented, you can check each type of search by uncommenting and running each search
     # print("Keyword Search Results:")
     # keyword_results = keyword_search(query)
     # for res in keyword_results:
