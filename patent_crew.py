@@ -1,11 +1,8 @@
 import os
 from datetime import datetime, timedelta
-
 import requests
-
-# Use CrewAI and import from crewai.tools
 from crewai import Agent, Crew, Process, Task
-from crewai.tools import BaseTool  # Use CrewAI's own tool system
+from crewai.tools import BaseTool
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama import OllamaLLM
@@ -13,7 +10,6 @@ from langchain_ollama import OllamaLLM
 from opensearch_client import get_opensearch_client
 
 
-# Check if Ollama is available and get available models
 def check_ollama_availability():
     """Check if Ollama is running and return available models."""
     try:
@@ -25,8 +21,6 @@ def check_ollama_availability():
         print(f"Error connecting to Ollama: {e}")
         return []
 
-
-# Test model with a simple query to verify it works
 def test_model(model_name):
     """Test if the model can respond to a simple prompt."""
     try:
@@ -39,8 +33,6 @@ def test_model(model_name):
         print(f"Error testing model {model_name}: {e}")
         return False
 
-
-# Define custom tools by extending BaseTool from CrewAI
 class SearchPatentsTool(BaseTool):
     name: str = "search_patents"
     description: str = "Search for patents matching a query"
@@ -59,7 +51,6 @@ class SearchPatentsTool(BaseTool):
             response = client.search(index=index_name, body=search_query)
             results = response["hits"]["hits"]
 
-            # Format results as a string for better LLM consumption
             formatted_results = []
             for i, hit in enumerate(results):
                 source = hit["_source"]
@@ -103,8 +94,6 @@ class SearchPatentsByDateRangeTool(BaseTool):
         try:
             response = client.search(index=index_name, body=search_query)
             results = response["hits"]["hits"]
-
-            # Format results as a string
             formatted_results = []
             for i, hit in enumerate(results):
                 source = hit["_source"]
@@ -126,11 +115,10 @@ class AnalyzePatentTrendsTool(BaseTool):
 
     def _run(self, patents_data: str) -> str:
         # In a real implementation, this would use NLP to analyze trends
-        # Here, we just return the input data for simplicity
         return f"Analysis of patent trends: {patents_data}"
 
 
-# Define our agents
+# Defining our multi-agent-crew
 def create_patent_analysis_crew(model_name="llama3"):
     """
     Create a CrewAI crew for patent analysis using Ollama.
@@ -141,33 +129,28 @@ def create_patent_analysis_crew(model_name="llama3"):
     Returns:
         Crew: A CrewAI crew configured for patent analysis
     """
-    # Check if model exists in Ollama
     available_models = check_ollama_availability()
     if not available_models:
         raise RuntimeError(
             "Ollama service is not available. Make sure Ollama is running."
         )
 
-    # Test model
     if not test_model(model_name):
         raise RuntimeError(f"Model {model_name} is not responding to test prompts.")
     
     print("model found and tested successfully")
 
-    # Fix the model format by adding the 'ollama/' prefix
     if not model_name.startswith("ollama/"):
         model_name = f"ollama/{model_name}"
 
     llm = OllamaLLM(model=model_name, temperature=0.2)
 
-    # Create tools using CrewAI's BaseTool subclasses
     tools = [
         SearchPatentsTool(),
         SearchPatentsByDateRangeTool(),
         AnalyzePatentTrendsTool(),
     ]
 
-    # Create agents with the correct tools
     research_director = Agent(
         role="Research Director",
         goal="Coordinate research efforts and define the scope of patent analysis",
@@ -208,7 +191,7 @@ def create_patent_analysis_crew(model_name="llama3"):
         tools=tools,
     )
 
-    # Create tasks with shorter, simpler descriptions (to reduce LLM load)
+    
     task1 = Task(
         description="""
         Define a research plan for lithium battery patents:
@@ -288,7 +271,7 @@ def create_patent_analysis_crew(model_name="llama3"):
         dependencies=[task3],
     )
 
-    # Create the crew with debugging enabled
+    # Creating the crew
     crew = Crew(
         agents=[
             research_director,
@@ -299,7 +282,7 @@ def create_patent_analysis_crew(model_name="llama3"):
         tasks=[task1, task2, task3, task4],
         verbose=True,
         process=Process.sequential,
-        cache=False,  # Disable cache to prevent issues
+        cache=False,
     )
 
     return crew
@@ -320,15 +303,12 @@ def run_patent_analysis(research_area="Lithium Battery", model_name="llama3"):
         crew = create_patent_analysis_crew(model_name)
         result = crew.kickoff(inputs={"research_area": research_area})
 
-        # Extract the string output from the CrewOutput object
+
         if hasattr(result, "output"):
-            # Recent CrewAI versions store results in the 'output' attribute
             return result.output
         elif hasattr(result, "result"):
-            # Some versions might use 'result'
             return result.result
         else:
-            # Last resort - convert to string
             return str(result)
     except Exception as e:
         return (
@@ -341,26 +321,25 @@ def run_patent_analysis(research_area="Lithium Battery", model_name="llama3"):
 
 
 if __name__ == "__main__":
-    # Get the research area from user input
+
     research_area = input(
         "Enter the research area to analyze (default: Lithium Battery): "
     )
     if not research_area:
         research_area = "Lithium Battery"
 
-    # Get the model name from user input
+
     model_name = input("Enter the Ollama model to use (default: llama2): ")
     if not model_name:
         model_name = "llama2"
 
-    # Run the analysis
+
     result = run_patent_analysis(research_area, model_name)
 
-    # Save results to file
+
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = f"patent_analysis_{timestamp}.txt"
 
-    # Ensure result is a string before writing to file
     if not isinstance(result, str):
         result = str(result)
 
