@@ -32,7 +32,6 @@ def run_complete_analysis():
     if not research_area:
         research_area = "Lithium Battery"
 
-    # Ask for the Ollama model to use
     model_name = input("Enter the Ollama model to use (default: llama2): ")
     if not model_name:
         model_name = "llama2"
@@ -44,11 +43,10 @@ def run_complete_analysis():
     try:
         result = run_patent_analysis(research_area, model_name)
 
-        # Ensure result is a string before writing to file
         if not isinstance(result, str):
             result = str(result)
 
-        # Save results to file
+
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         filename = f"patent_analysis_{timestamp}.txt"
         with open(filename, "w") as f:
@@ -56,11 +54,10 @@ def run_complete_analysis():
 
         print(f"\nAnalysis completed and saved to {filename}")
 
-        # Display summary
         print("\n" + "=" * 60)
         print("ANALYSIS SUMMARY")
         print("-" * 60)
-        print(result[:500] + "...\n")  # Display first 500 chars
+        print(result[:500] + "...\n")
 
     except Exception as e:
         print(f"Error during analysis: {e}")
@@ -68,7 +65,6 @@ def run_complete_analysis():
 
 def search_patents():
     """Search for specific patents in the database"""
-    # No changes needed here, as this function doesn't use LLM
     print("\nPATENT SEARCH")
     print("-" * 60)
 
@@ -84,7 +80,7 @@ def search_patents():
     try:
         results = []
         if search_type == "1":
-            # Keyword search
+
             client = get_opensearch_client("localhost", 9200)
             search_query = {
                 "size": 10,
@@ -94,13 +90,9 @@ def search_patents():
             response = client.search(index="patents", body=search_query)
             results = response["hits"]["hits"]
         elif search_type == "2":
-            # Semantic search
             results = semantic_search(query)
         else:
-            # Hybrid search (default)
             results = hybrid_search(query)
-
-        # Display results
         print(f"\nFound {len(results)} results for '{query}':")
         print("-" * 60)
         for i, hit in enumerate(results):
@@ -118,7 +110,6 @@ def search_patents():
 
 def iterative_exploration():
     """Perform iterative exploration of patents"""
-    # No changes needed here, as this function doesn't use LLM
     print("\nITERATIVE PATENT EXPLORATION")
     print("-" * 60)
 
@@ -138,7 +129,7 @@ def iterative_exploration():
     try:
         results = iterative_search(query, refinement_steps=steps)
 
-        # Display results
+        # Displaying results
         print(f"\nFound {len(results)} results through iterative exploration:")
         print("-" * 60)
         for i, hit in enumerate(results):
@@ -157,8 +148,6 @@ def check_system_status():
     """Check the status of system components"""
     print("\nSYSTEM STATUS")
     print("-" * 60)
-
-    # Check OpenSearch connection
     try:
         client = get_opensearch_client("localhost", 9200)
         indices = client.cat.indices(format="json")
@@ -170,7 +159,7 @@ def check_system_status():
     except Exception as e:
         print(f"❌ OpenSearch connection: Failed - {e}")
 
-    # Check Ollama API availability
+
     try:
         response = requests.get("http://localhost:11434/api/tags")
         if response.status_code == 200:
@@ -184,7 +173,6 @@ def check_system_status():
     except Exception as e:
         print(f"❌ Ollama connection: Failed - {e}")
 
-    # Check embedding model
     try:
         from embedding import get_embedding
 
@@ -198,7 +186,6 @@ def check_system_status():
 
 def main():
     """Main application entry point"""
-    # Load environment variables (still useful for other potential secrets)
     load_dotenv()
 
     while True:
